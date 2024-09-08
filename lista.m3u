@@ -1,0 +1,767 @@
+#EXTM3U
+#EXTINF:0 tvg-name="Rai 1" tvg-id="Rai 1" tvg-logo="https://i.imgur.com/CAx7yRm.png" tvg-group="Italy" catchup="default" catchup-days="7",Rai 1
+https://mediapolis.rai/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
+#EXTINF:0 tvg-name="Rai 2" tvg-id="Rai 2" tvg-logo="https://i.imgur.com/zA0PTcs.png" tvg-group="Italy" catchup="default" catchup-days="7",Rai 2
+https://mediapolis.rai/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
+#EXTINF:0 tvg-name="Rai 3" tvg-id="Rai 3" tvg-logo="https://i.imgur.com/9kuQCIi.png" tvg-group="Italy" catchup="default" catchup-days="7",Rai 3
+https://mediapolis.rai/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
+#EXTINF:0 tvg-name="Rete 4" tvg-id="Rete 4" tvg-logo="https://i.imgur.com/GWx2Fkl.png" tvg-group="Italy" catchup="default" catchup-days="7",Rete 4
+https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
+#EXTINF:0 tvg-name="Canale 5" tvg-id="Canale 5" tvg-logo="https://i.imgur.com/p6YdiR1.png" tvg-group="Italy" catchup="default" catchup-days="7",Canale 5
+https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
+#EXTINF:0 tvg-name="Italia 1" tvg-id="Italia 1" tvg-logo="https://i.imgur.com/oCiOxBG.png" tvg-group="Italy" catchup="default" catchup-days="7",Italia 1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
+#EXTINF:0 tvg-name="La7" tvg-id="La7" tvg-logo="https://i.imgur.com/F90mpSa.png" tvg-group="Italy" catchup="default" catchup-days="7",La7
+https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
+#EXTINF:0 tvg-name="TV8" tvg-id="TV8" tvg-logo="https://i.imgur.com/xvoHVOU.png" tvg-group="Italy" catchup="default" catchup-days="7",TV8
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+#EXTINF:0 tvg-name="Nove" tvg-id="Nove" tvg-logo="https://i.imgur.com/Hp723RU.png" tvg-group="Italy" catchup="default" catchup-days="7",Nove
+https://amg16146-wbdi-amg16146c1-samsung-it-1831.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-nove-samsungit/playlist.m3u8
+#EXTINF:0 tvg-name="20 Mediaset" tvg-id="20" tvg-logo="https://i.imgur.com/It13jwX.png" tvg-group="Italy" catchup="default" catchup-days="7",20 Mediaset
+https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
+#EXTINF:0 tvg-name="Rai 4" tvg-id="Rai4" tvg-logo="https://i.imgur.com/XFkZRfv.png" tvg-group="Italy" catchup="default" catchup-days="7",Rai 4
+https://mediapolis.rai/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
+#EXTINF:0 tvg-name="Iris" tvg-id="Iris" tvg-logo="https://i.imgur.com/Ixz1BY3.png" tvg-group="Italy" catchup="default" catchup-days="7",Iris
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
+#EXTINF:0 tvg-name="Rai 5" tvg-id="Rai5" tvg-logo="https://i.imgur.com/Leu2zTO.png" tvg-group="Italy" catchup="default" catchup-days="7",Rai 5
+https://mediapolis.rai/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv
+#EXTINF:0 tvg-name="Rai Movie" tvg-id="RaiMovie" tvg-logo="https://i.imgur.com/RKpO8CE.png" tvg-group="Italy" catchup="default" catchup-days="7",Rai Movie
+https://mediapolis.rai/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
+#EXTINF:0 tvg-name="Rai Premium" tvg-id="RaiPremium" tvg-logo="https://i.imgur.com/RKI4nFy.png" tvg-group="Italy" catchup="default" catchup-days="7",Rai Premium
+https://mediapolis.rai/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
+#EXTINF:0 tvg-name="Cielo TV" tvg-id="CieloTV" tvg-logo="https://i.imgur.com/cPluF03.png" tvg-group="Italy" catchup="default" catchup-days="7",Cielo TV
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+#EXTINF:0 tvg-name="27 Twentyseven" tvg-id="27Twentyseven" tvg-logo="https://i.imgur.com/y2PdPCK.png" tvg-group="Italy" catchup="default" catchup-days="7",27 Twentyseven
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
+#EXTINF:0 tvg-name="TV 2000" tvg-id="TV2000.va" tvg-logo="https://i.imgur.com/x7RaK3a.png" tvg-group="Italy" catchup="default" catchup-days="7",TV 2000
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
+#EXTINF:0 tvg-name="La7d" tvg-id="La7d" tvg-logo="https://i.imgur.com/AOL9nMw.png" tvg-group="Italy" catchup="default" catchup-days="7",La7d
+https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
+#EXTINF:0 tvg-name="La 5" tvg-id="La5" tvg-logo="https://i.imgur.com/UNyJaho.png" tvg-group="Italy" catchup="default" catchup-days="7",La 5
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
+#EXTINF:0 tvg-name="Real Time" tvg-id="RealTimeItaly" tvg-logo="https://i.imgur.com/9dcTYg1.png" tvg-group="Italy" catchup="default" catchup-days="7",Real Time
+https://amg16146-wbdi-amg16146c2-samsung-it-1835.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-realtime-samsungit/playlist.m3u8
+#EXTINF:0 tvg-name="QVC" tvg-id="QVCItaly" tvg-logo="https://i.imgur.com/Ea7iUX2.png" tvg-group="Italy" catchup="default" catchup-days="7",QVC
+https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
+#EXTINF:0 tvg-name="Food Network" tvg-id="FoodNetworkItaly" tvg-logo="https://i.imgur.com/i60OYr9.png" tvg-group="Italy" catchup="default" catchup-days="7",Food Network
+https://amg16146-wbdi-amg16146c3-samsung-it-1836.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-foodnetwork-samsungit/playlist.m3u8
+#EXTINF:0 tvg-name="Cine34" tvg-id="Cine34" tvg-logo="https://i.imgur.com/YyldwhI.png" tvg-group="Italy" catchup="default" catchup-days="7",Cine34
+https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
+#EXTINF:0 tvg-name="Focus" tvg-id="Focus" tvg-logo="https://i.imgur.com/M4smqpF.png" tvg-group="Italy" catchup="default" catchup-days="7",Focus
+https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
+#EXTINF:0 tvg-name="RTL 102.5" tvg-id="RTL1025TV" tvg-logo="https://i.imgur.com/KdissvS.png" tvg-group="Italy" catchup="default" catchup-days="7",RTL 102.5
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+#EXTINF:0 tvg-name="Warner TV" tvg-id="WarnerTVItaly" tvg-logo="https://i.imgur.com/oIWFcOC.png" tvg-group="Italy" catchup="default" catchup-days="7",Warner TV
+https://amg16146-wbdi-amg16146c4-samsung-it-1837.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-warnertv-samsungit/playlist.m3u8
+#EXTINF:0 tvg-name="Giallo" tvg-id="Giallo" tvg-logo="https://i.imgur.com/0PIRwZS.png" tvg-group="Italy" catchup="default" catchup-days="7",Giallo
+https://amg16146-wbdi-amg16146c5-samsung-it-1838.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-giallo-samsungit/playlist.m3u8
+#EXTINF:0 tvg-name="Top Crime" tvg-id="TopCrime" tvg-logo="https://i.imgur.com/RFIwv9O.png" tvg-group="Italy" catchup="default" catchup-days="7",Top Crime
+https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
+#EXTINF:0 tvg-name="BOING" tvg-id="BoingItaly" tvg-logo="https://i.imgur.com/niSlrqT.png" tvg-group="Italy" catchup="default" catchup-days="7",BOING
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
+#EXTINF:0 tvg-name="K2" tvg-id="K2" tvg-logo="https://i.imgur.com/wlLgSiA.png" tvg-group="Italy" catchup="default" catchup-days="7",K2
+https://amg16146-wbdi-amg16146c6-samsung-it-1839.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-k2-samsungit/playlist.m3u8
+#EXTINF:0 tvg-name="Rai Gulp" tvg-id="RaiGulp" tvg-logo="https://i.imgur.com/lu1DPVb.png" tvg-group="Italy" catchup="default" catchup-days="7",Rai Gulp
+https://mediapolis.rai/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=raiplayappletv
+#EXTINF:0 tvg-name="Rai YoYo" tvg-id="RaiYoyo" tvg-logo="https://i.imgur.com/DRSa3ys.png" tvg-group="Italy" catchup="default" catchup-days="7",Rai YoYo
+https://mediapolis.rai/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
+#EXTINF:0 tvg-name="Frisbee" tvg-id="Frisbee" tvg-logo="https://i.imgur.com/9y1zIAe.png" tvg-group="Italy" catchup="default" catchup-days="7",Frisbee
+https://amg16146-wbdi-amg16146c7-samsung-it-1840.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-frisbee-samsungit/playlist.m3u8
+#EXTINF:0 tvg-name="Cartoonito" tvg-id="CartoonitoItaly" tvg-logo="https://i.imgur.com/zqc0TrY.png" tvg-group="Italy" catchup="default" catchup-days="7",Cartoonito
+https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
+#EXTINF:0 tvg-name="Super! Ⓢ" tvg-id="Super" tvg-logo="https://i.imgur.com/zDByOwo.png" tvg-group="Italy" catchup="default" catchup-days="7",Super! Ⓢ
+https://vimnitaly.akamaized.net/hls/live/2094034/super/master.m3u8
+#EXTINF:0 tvg-name="Rai News 24" tvg-id="RaiNews24" tvg-logo="https://i.imgur.com/gdzGwB6.png" tvg-group="Italy" catchup="default" catchup-days="7",Rai News 24
+https://mediapolis.rai/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=raiplayappletv
+#EXTINF:0 tvg-name="Italia 2" tvg-id="Italia2" tvg-logo="https://i.imgur.com/nq48sjO.png" tvg-group="Italy" catchup="default" catchup-days="7",Italia 2
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
+#EXTINF:0 tvg-name="Sky TG24" tvg-id="SkyTG24" tvg-logo="https://i.imgur.com/q4d3Dah.png" tvg-group="Italy" catchup="default" catchup-days="7",Sky TG24
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+#EXTINF:0 tvg-name="TGCOM 24" tvg-id="TGCom24" tvg-logo="https://i.imgur.com/xautVD8.png" tvg-group="Italy" catchup="default" catchup-days="7",TGCOM 24
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
+#EXTINF:0 tvg-name="DMAX" tvg-id="DMAXItaly" tvg-logo="https://i.imgur.com/dmEmRX7.png" tvg-group="Italy" catchup="default" catchup-days="7",DMAX
+https://amg16146-wbdi-amg16146c8-samsung-it-1841.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-dmax-samsungit/playlist.m3u8
+#EXTINF:0 tvg-name="Rai Storia" tvg-id="RaiStoria" tvg-logo="https://i.imgur.com/K8y5q8x.png" tvg-group="Italy" catchup="default" catchup-days="7",Rai Storia
+https://mediapolis.rai/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=raiplayappletv
+#EXTINF:0 tvg-name="Mediaset Extra" tvg-id="MediasetExtra" tvg-logo="https://i.imgur.com/mM8lopo.png" tvg-group="Italy" catchup="default" catchup-days="7",Mediaset Extra
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
+#EXTINF:0 tvg-name="HGTV – Home & Garden Tv" tvg-id="HGTVItaly" tvg-logo="https://i.imgur.com/emLNC0U.png" tvg-group="Italy" catchup="default" catchup-days="7",HGTV – Home & Garden Tv
+https://amg16146-wbdi-amg16146c9-samsung-it-1842.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-hgtv-samsungit/playlist.m3u8
+#EXTINF:0 tvg-name="Rai Scuola" tvg-id="RaiScuola" tvg-logo="https://i.imgur.com/tmtJW6s.png" tvg-group="Italy" catchup="default" catchup-days="7",Rai Scuola
+https://mediapolis.rai/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
+#EXTINF:0 tvg-name="Rai Sport" tvg-id="RaiSport" tvg-logo="https://i.imgur.com/xsGljsb.png" tvg-group="Italy" catchup="default" catchup-days="7",Rai Sport
+https://mediapolis.rai/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
+#EXTINF:0 tvg-name="Motor Trend" tvg-id="MotorTrend" tvg-logo="https://i.imgur.com/ipj2H0n.png" tvg-group="Italy" catchup="default" catchup-days="7",Motor Trend
+https://amg16146-wbdi-amg16146c10-samsung-it-1843.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-motortrend-samsungit/playlist.m3u8
+#EXTINF:0 tvg-name="Sportitalia Plus" tvg-id="Sportitalia" tvg-logo="https://i.imgur.com/hu56Ya5.png" tvg-group="Italy" catchup="default" catchup-days="7",Sportitalia Plus
+https://sportitaliaamd.akamaized.net/live/Sportitalia/hls/F59D8EB0332E783633CDDE8E265844975635D24F/index.m3u8
+#EXTINF:0 tvg-name="Travel TV" tvg-id="TravelTV" tvg-logo="https://i.imgur.com/aXAUyLN.png" tvg-group="Italy" catchup="default" catchup-days="7",Travel TV
+https://traveltv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
+#EXTINF:0 tvg-name="Donna TV Ⓢ" tvg-id="DonnaTV" tvg-logo="https://i.imgur.com/Aa1Abme.png" tvg-group="Italy" catchup="default" catchup-days="7",Donna TV Ⓢ
+https://donnatv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
+#EXTINF:0 tvg-name="SuperTennis" tvg-id="SuperTennis" tvg-logo="https://i.imgur.com/GzsPlbX.png" tvg-group="Italy" catchup="default" catchup-days="7",SuperTennis
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
+#EXTINF:0 tvg-name="Alma TV" tvg-id="AlmaTV" tvg-logo="https://i.imgur.com/Y8JiDwN.png" tvg-group="Italy" catchup="default" catchup-days="7",Alma TV
+https://almatv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
+#EXTINF:0 tvg-name="Radio 105 TV" tvg-id="Radio105TV" tvg-logo="https://i.imgur.com/3NiLKvj.png" tvg-group="Italy" catchup="default" catchup-days="7",Radio 105 TV
+https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
+#EXTINF:0 tvg-name="R101 TV" tvg-id="R101TV" tvg-logo="https://i.imgur.com/mWeEa9T.png" tvg-group="Italy" catchup="default" catchup-days="7",R101 TV
+https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
+#EXTINF:0 tvg-name="Deejay TV" tvg-id="DeejayTV" tvg-logo="https://i.imgur.com/rlaKH6k.png" tvg-group="Italy" catchup="default" catchup-days="7",Deejay TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+#EXTINF:0 tvg-name="RadioItaliaTV" tvg-id="RadioItaliaTV" tvg-logo="https://i.imgur.com/4VCEJuJ.png" tvg-group="Italy" catchup="default" catchup-days="7",RadioItaliaTV
+https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
+#EXTINF:0 tvg-name="Radio KISS KISS TV" tvg-id="KissKissTV" tvg-logo="https://i.imgur.com/UTStxDW.png" tvg-group="Italy" catchup="default" catchup-days="7",Radio KISS KISS TV
+https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
+#EXTINF:0 tvg-name="Rai Radio 2 Visual Radio" tvg-id="RaiRadio2Visual" tvg-logo="https://i.imgur.com/nVBet0h.png" tvg-group="Italy" catchup="default" catchup-days="7",Rai Radio 2 Visual Radio
+https://mediapolis.rai/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=raiplayappletv
+#EXTINF:0 tvg-name="RTL 102.5 News" tvg-id="RTL1025News" tvg-logo="https://i.imgur.com/vAtzwXK.png" tvg-group="Italy" catchup="default" catchup-days="7",RTL 102.5 News
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
+#EXTINF:0 tvg-name="RadioFreccia" tvg-id="RadioFrecciaTV" tvg-logo="https://i.imgur.com/J5N9F7Z.png" tvg-group="Italy" catchup="default" catchup-days="7",RadioFreccia
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
+#EXTINF:0 tvg-name="RDS Social TV" tvg-id="RDSSocialTV" tvg-logo="https://i.imgur.com/TY6FhqI.png" tvg-group="Italy" catchup="default" catchup-days="7",RDS Social TV
+https://stream.rdstv.radio/index.m3u8
+#EXTINF:0 tvg-name="Radio ZETA" tvg-id="RadioZetaTV" tvg-logo="https://i.imgur.com/0MgCm1n.png" tvg-group="Italy" catchup="default" catchup-days="7",Radio ZETA
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
+#EXTINF:0 tvg-name="Radio TV Serie A con RDS" tvg-id="RadioTVSerieA" tvg-logo="https://i.imgur.com/NzDeCIx.png" tvg-group="Italy" catchup="default" catchup-days="7",Radio TV Serie A con RDS
+https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8
+#EXTINF:0 tvg-name="Gold TV Sat" tvg-id="GoldTVSat" tvg-logo="https://i.imgur.com/3rVi4kD.png" tvg-group="Italy" catchup="default" catchup-days="7",Gold TV Sat
+https://goldsattv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
+#EXTINF:0 tvg-name="Sportitalia SOLOCALCIO" tvg-id="SportitaliaSolocalcio" tvg-logo="https://i.imgur.com/hu56Ya5.png" tvg-group="Italy" catchup="default" catchup-days="7",Sportitalia SOLOCALCIO
+https://sportitaliaamd.akamaized.net/live/Sportitalia/hls/6197F24C2DDD359567D902082C9347C25BC98852/index.m3u8
+#EXTINF:0 tvg-name="BIKE" tvg-id="Bike" tvg-logo="https://i.imgur.com/4IzVSQI.png" tvg-group="Italy" catchup="default" catchup-days="7",BIKE
+https://66286fdeb96da.streamlock.net/BikeChannel/Bikechannel/playlist.m3u8
+#EXTINF:0 tvg-name="Radio Montecarlo TV" tvg-id="RadioMonteCarloTV" tvg-logo="https://i.imgur.com/3TMMXmS.png" tvg-group="Italy" catchup="default" catchup-days="7",Radio Montecarlo TV
+https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
+#EXTINF:0 tvg-name="Virgin Radio TV" tvg-id="VirginRadioTV" tvg-logo="https://i.imgur.com/7Im3HI1.png" tvg-group="Italy" catchup="default" catchup-days="7",Virgin Radio TV
+https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
+#EXTINF:0 tvg-name="Senato TV" tvg-id="SenatoTV" tvg-logo="https://i.imgur.com/FoQoNZW.png" tvg-group="Italy" catchup="default" catchup-days="7",Senato TV
+https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
+#EXTINF:0 tvg-name="Camera dei Deputati Ⓢ" tvg-id="CameradeiDeputati" tvg-logo="https://i.imgur.com/fqGn1k9.png" tvg-group="Italy" catchup="default" catchup-days="7",Camera dei Deputati Ⓢ
+https://video-ar.radioradicale/diretta/camera2/playlist.m3u8
+#EXTINF:0 tvg-name="Rai 4K" tvg-id="Rai4K" tvg-logo="https://i.imgur.com/5gkt9DD.png" tvg-group="Italy" catchup="default" catchup-days="7",Rai 4K
+https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
+#EXTINF:0 tvg-name="UniNettuno University TV" tvg-id="UniNettunoUniversityTV" tvg-logo="https://i.imgur.com/BOGMeio.png" tvg-group="Italy" catchup="default" catchup-days="7",UniNettuno University TV
+https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
+#EXTINF:0 tvg-name="111 Tv" tvg-logo="https://i.imgur.com/4jY8yAI.png" tvg-group="Italy" catchup="default" catchup-days="7",111 Tv
+https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8
+#EXTINF:0 tvg-name="12 Tv Parma" tvg-id="12TVParma" tvg-logo="https://i.imgur.com/xnUgx6b.png" tvg-group="Italy" catchup="default" catchup-days="7",12 Tv Parma
+https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+#EXTINF:0 tvg-name="4 You Tv" tvg-logo="https://i.imgur.com/NN0cSbz.png" tvg-group="Italy" catchup="default" catchup-days="7",4 You Tv
+https://streamsrv2.nets-sr.com:19360/4youtv/4youtv.m3u8
+#EXTINF:0 tvg-name="Abc Tv" tvg-logo="https://i.imgur.com/nVmIeTD.png" tvg-group="Italy" catchup="default" catchup-days="7",Abc Tv
+https://diretta.arcapuglia:8080/live/abctv/index.m3u8
+#EXTINF:0 tvg-name="AB Channel" tvg-id="ABChannel" tvg-logo="https://i.imgur.com/k8EPLB9.png" tvg-group="Italy" catchup="default" catchup-days="7",AB Channel
+https://tsw.streamingwebtv24:1936/abchanneltv/abchanneltv/playlist.m3u8
+#EXTINF:0 tvg-name="Alpauno" tvg-logo="https://i.imgur.com/4QKFtUa.png" tvg-group="Italy" catchup="default" catchup-days="7",Alpauno
+https://5f22d76e220e1.streamlock.net/alpaunotv/alpaunotv/playlist.m3u8
+#EXTINF:0 tvg-name="Alto Adige Tv" tvg-id="AltoAdigeTV" tvg-logo="https://i.imgur.com/S2sCFQi.png" tvg-group="Italy" catchup="default" catchup-days="7",Alto Adige Tv
+https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
+#EXTINF:0 tvg-name="Antenna 2 Bergamo" tvg-logo="https://i.imgur.com/NfvHIAw.png" tvg-group="Italy" catchup="default" catchup-days="7",Antenna 2 Bergamo
+https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8
+#EXTINF:0 tvg-name="Antenna 3 Massa" tvg-logo="https://i.imgur.com/CHDU86j.png" tvg-group="Italy" catchup="default" catchup-days="7",Antenna 3 Massa
+https://media2021.rtvweb.com/antenna3massa/a3/playlist.m3u8
+#EXTINF:0 tvg-name="Antenna 3 Veneto Nord Est" tvg-id="AntennaTreNordest" tvg-logo="https://i.imgur.com/NiVHLwp.png" tvg-group="Italy" catchup="default" catchup-days="7",Antenna 3 Veneto Nord Est
+https://59d7d6f47d7fc.streamlock.net/antennatreveneto/antennatreveneto.stream/playlist.m3u8
+#EXTINF:0 tvg-name="Antenna Sud" tvg-logo="https://i.imgur.com/b8y6ImZ.png" tvg-group="Italy" catchup="default" catchup-days="7",Antenna Sud
+https://live.antennasudwebtv:9443/hls/vod.m3u8
+#EXTINF:0 tvg-name="Antenna Sud Extra" tvg-logo="https://i.imgur.com/6tBv8VD.png" tvg-group="Italy" catchup="default" catchup-days="7",Antenna Sud Extra
+https://live.antennasudwebtv:9443/hls/vod92.m3u8
+#EXTINF:0 tvg-name="Aristanis SuperTv" tvg-logo="https://i.imgur.com/v8PlAJO.png" tvg-group="Italy" catchup="default" catchup-days="7",Aristanis SuperTv
+https://video2.azotosolutions.com:1936/supertvoristano/supertvoristano/playlist.m3u8
+#EXTINF:0 tvg-name="Arte Network Orler" tvg-logo="https://i.imgur.com/DP5y0Er.png" tvg-group="Italy" catchup="default" catchup-days="7",Arte Network Orler
+https://tsw.streamingwebtv24:1936/artenetwork/artenetwork/playlist.m3u8
+#EXTINF:0 tvg-name="Aurora Arte" tvg-id="AuroraArte" tvg-logo="https://i.imgur.com/BoLZ5wG.png" tvg-group="Italy" catchup="default" catchup-days="7",Aurora Arte
+https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8
+#EXTINF:0 tvg-name="Azzurra Tv Vco" tvg-id="AzzurraTV" tvg-logo="https://i.imgur.com/mSWw8uW.png" tvg-group="Italy" catchup="default" catchup-days="7",Azzurra Tv Vco
+https://59d7d6f47d7fc.streamlock.net/azzurratv/azzurratv/playlist.m3u8
+#EXTINF:0 tvg-name="Basilicata 1 Tv" tvg-logo="https://i.imgur.com/VS6CQ88.png" tvg-group="Italy" catchup="default" catchup-days="7",Basilicata 1 Tv
+http://77.68.40.210:8888/hls/basilicata1.m3u8
+#EXTINF:0 tvg-name="Bergamo Tv" tvg-logo="https://i.imgur.com/1doR6Vl.png" tvg-group="Italy" catchup="default" catchup-days="7",Bergamo Tv
+http://api.new.livestream.com/accounts/245066/events/3063596/live.m3u8
+#EXTINF:0 tvg-name="BOM Channel" tvg-id="BomChannel" tvg-logo="https://i.imgur.com/hISoOK3.png" tvg-group="Italy" catchup="default" catchup-days="7",BOM Channel
+https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
+#EXTINF:0 tvg-name="ByoBlu" tvg-logo="https://i.imgur.com/1xaHGtU.png" tvg-group="Italy" catchup="default" catchup-days="7",ByoBlu
+https://09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/EnTK3KeeN1Eg/playlist.m3u8
+#EXTINF:0 tvg-name="Cafe Tv 24" tvg-logo="https://i.imgur.com/KbcbxFw.png" tvg-group="Italy" catchup="default" catchup-days="7",Cafe Tv 24
+https://srvx1.selftv.video/cafe/live/playlist.m3u8
+#EXTINF:0 tvg-name="Calabria Uno Tv" tvg-logo="https://i.imgur.com/2TK1GQ5.png" tvg-group="Italy" catchup="default" catchup-days="7",Calabria Uno Tv
+https://635320cd397eb.streamlock.net/live/ngrp:calabriaunolive_all/playlist.m3u8
+#EXTINF:0 tvg-name="Calabria tv" tvg-logo="https://i.imgur.com/qWirucd.png" tvg-group="Italy" catchup="default" catchup-days="7",Calabria tv
+https://64b16f23efbee.streamlock.net/calabriatv-clone/calabriatv-clone/playlist.m3u8
+#EXTINF:0 tvg-name="Canale 10" tvg-logo="https://i.imgur.com/KuQcjYV.png" tvg-group="Italy" catchup="default" catchup-days="7",Canale 10
+https://nrvideo1.newradio:1936/desxcerbht/desxcerbht/playlist.m3u8
+#EXTINF:0 tvg-name="Canale 2" tvg-logo="https://i.imgur.com/ETqDkS1.png" tvg-group="Italy" catchup="default" catchup-days="7",Canale 2
+https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8
+#EXTINF:0 tvg-name="Canale 21" tvg-id="Canale21" tvg-logo="https://i.imgur.com/mU6Cq89.png" tvg-group="Italy" catchup="default" catchup-days="7",Canale 21
+https://0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S38994111/B7j0ql4XaZtE/playlist.m3u8
+#EXTINF:0 tvg-name="Canale 21 Extra" tvg-id="Canale21Extra" tvg-logo="https://i.imgur.com/cDAsrBl.png" tvg-group="Italy" catchup="default" catchup-days="7",Canale 21 Extra
+https://0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S42170132/sT6C3LFaD1iA/playlist.m3u8
+#EXTINF:0 tvg-name="Canale 7" tvg-logo="https://i.imgur.com/9cuOLCn.png" tvg-group="Italy" catchup="default" catchup-days="7",Canale 7
+http://wms.shared.streamshow:80/canale7/canale7/playlist.m3u8
+#EXTINF:0 tvg-name="Canale 74 Sicilia" tvg-logo="https://i.imgur.com/18JIVgu.png" tvg-group="Italy" catchup="default" catchup-days="7",Canale 74 Sicilia
+https://stream.cp.ets-sistemi:1936/canale74/canale74/playlist.m3u8
+#EXTINF:0 tvg-name="Canale 8 Campania" tvg-logo="https://i.imgur.com/ElAS2WC.png" tvg-group="Italy" catchup="default" catchup-days="7",Canale 8 Campania
+https://59d7d6f47d7fc.streamlock.net/canale8/canale8/playlist.m3u8
+#EXTINF:0 tvg-name="Canale Italia" tvg-id="CanaleItalia" tvg-logo="https://i.imgur.com/QlwLRyh.png" tvg-group="Italy" catchup="default" catchup-days="7",Canale Italia
+https://ovp-live.akamaized.net/ac115_live/canale1.smil/playlist.m3u8
+#EXTINF:0 tvg-name="Carina Tv" tvg-logo="https://i.imgur.com/FMGcm6I.jpg" tvg-group="Italy" catchup="default" catchup-days="7",Carina Tv
+https://samson.streamerr.co:8081/carinatv/index.m3u8
+#EXTINF:0 tvg-name="Casa Italia 53" tvg-logo="https://i.imgur.com/O4GQVCk.png" tvg-group="Italy" catchup="default" catchup-days="7",Casa Italia 53
+https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8
+#EXTINF:0 tvg-name="Casa Sanremo Tv" tvg-logo="https://i.imgur.com/WL3SFTs.png" tvg-group="Italy" catchup="default" catchup-days="7",Casa Sanremo Tv
+https://router.xdevel.com/video0s975911-633/stream/playlist_dvr.m3u8
+#EXTINF:0 tvg-name="Castrovillari Tv" tvg-logo="https://i.imgur.com/V0kjYNG.png" tvg-group="Italy" catchup="default" catchup-days="7",Castrovillari Tv
+http://msh0062.stream.seeweb/live/flv:stream00.sdp/playlist.m3u8
+#EXTINF:0 tvg-name="Cittaceleste Tv" tvg-logo="https://i.imgur.com/9RVriNK.jpeg" tvg-group="Italy" catchup="default" catchup-days="7",Cittaceleste Tv
+https://sportitaliaamd.akamaized.net/live/Cittaceleste/hls/A990687F506536598442FC5CD12C97CB78873FBA/index.m3u8
+#EXTINF:0 tvg-name="Company Tv" tvg-logo="https://i.imgur.com/IbabUDd.png" tvg-group="Italy" catchup="default" catchup-days="7",Company Tv
+https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/playlist.m3u8
+#EXTINF:0 tvg-name="Cremona 1" tvg-logo="https://i.imgur.com/a5d0F01.jpg" tvg-group="Italy" catchup="default" catchup-days="7",Cremona 1
+https://cdn2.streamshow/cloud-cremona1/cremona1/playlist.m3u8
+#EXTINF:0 tvg-name="Cusano Italia Tv" tvg-logo="https://i.imgur.com/9F1sVjZ.png" tvg-group="Italy" catchup="default" catchup-days="7",Cusano Italia Tv
+https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
+#EXTINF:0 tvg-name="Cusano News 7" tvg-logo="https://i.imgur.com/L49Ie1Q.png" tvg-group="Italy" catchup="default" catchup-days="7",Cusano News 7
+https://router.xdevel.com/video1s975363-1596/stream/playlist.m3u8
+#EXTINF:0 tvg-name="Delta Tv" tvg-logo="https://i.imgur.com/mfwVXt7.png" tvg-group="Italy" catchup="default" catchup-days="7",Delta Tv
+http://hbbtv-server.zivoli:8080/hls/deltatv/deltatv/index.m3u8
+#EXTINF:0 tvg-name="Deluxe 139" tvg-logo="https://i.imgur.com/kRexw3w.png" tvg-group="Italy" catchup="default" catchup-days="7",Deluxe 139
+https://59d7d6f47d7fc.streamlock.net/pierstyle/pierstyle/playlist.m3u8
+#EXTINF:0 tvg-name="Di.Tv 80" tvg-logo="https://i.imgur.com/kHxTsJw.png" tvg-group="Italy" catchup="default" catchup-days="7",Di.Tv 80
+https://5f22d76e220e1.streamlock.net/ditv80/ditv80/playlist.m3u8
+#EXTINF:0 tvg-name="Di.Tv 92" tvg-logo="https://i.imgur.com/g3SI08H.png" tvg-group="Italy" catchup="default" catchup-days="7",Di.Tv 92
+https://media2021.rtvweb.com/di_tv_92/live/playlist.m3u8
+#EXTINF:0 tvg-name="Digital Tv7 Benevento" tvg-logo="https://i.imgur.com/NaQkklP.png" tvg-group="Italy" catchup="default" catchup-days="7",Digital Tv7 Benevento
+http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8
+#EXTINF:0 tvg-name="Donna Shopping Tv" tvg-logo="https://i.imgur.com/oLDvx2T.png" tvg-group="Italy" catchup="default" catchup-days="7",Donna Shopping Tv
+https://5f22d76e220e1.streamlock.net/fascinotv/fascinotv/playlist.m3u8
+#EXTINF:0 tvg-name="E'live Brescia Tv" tvg-logo="https://i.imgur.com/bZ3B7pi.png" tvg-group="Italy" catchup="default" catchup-days="7",E'live Brescia Tv
+https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8
+#EXTINF:0 tvg-name="Easy Tv Canale 190" tvg-logo="https://i.imgur.com/LKrVuRR.jpg" tvg-group="Italy" catchup="default" catchup-days="7",Easy Tv Canale 190
+https://diretta.arcapuglia:8080/live/easytv/index.m3u8
+#EXTINF:0 tvg-name="Entella Tv" tvg-logo="https://i.imgur.com/1VPXKrW.png" tvg-group="Italy" catchup="default" catchup-days="7",Entella Tv
+https://5f22d76e220e1.streamlock.net:443/EntellaTV/EntellaTV/playlist.m3u8
+#EXTINF:0 tvg-name="EQUtv" tvg-logo="https://i.imgur.com/x9Wdz7h.png" tvg-group="Italy" catchup="default" catchup-days="7",EQUtv
+https://ippicabetflag-live.morescreens.com/IPPICA_1_003/304p.m3u8
+#EXTINF:0 tvg-name="Equos Tv" tvg-logo="https://i.imgur.com/YwyfNDF.png" tvg-group="Italy" catchup="default" catchup-days="7",Equos Tv
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/2824fb123d5e44b797232c7abf8195da/playlist.m3u8
+#EXTINF:0 tvg-name="Espansione Tv" tvg-id="EspansioneTV" tvg-logo="https://i.imgur.com/mm9HKpD.png" tvg-group="Italy" catchup="default" catchup-days="7",Espansione Tv
+https://srvx1.selftv.video/espansione/smil:live.smil/playlist.m3u8
+#EXTINF:0 tvg-name="Esperia Tv" tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/esperiatv.png" tvg-group="Italy" catchup="default" catchup-days="7",Esperia Tv
+https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8
+#EXTINF:0 tvg-name="Etna Espresso Channel" tvg-logo="https://i.imgur.com/hMUxytZ.png" tvg-group="Italy" catchup="default" catchup-days="7",Etna Espresso Channel
+https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8
+#EXTINF:0 tvg-name="è Tv Marche" tvg-logo="https://i.imgur.com/vxgbFnR.png" tvg-group="Italy" catchup="default" catchup-days="7",è Tv Marche
+https://live.ipstream/etvmarche/etvmarche.stream/playlist.m3u8
+#EXTINF:0 tvg-name="è Tv Rete7" tvg-logo="https://i.imgur.com/FXFzJhM.png" tvg-group="Italy" catchup="default" catchup-days="7",è Tv Rete7
+https://live.ipstream/etv/etv.stream/playlist.m3u8
+#EXTINF:0 tvg-name="è Tv Umbria" tvg-logo="https://i.imgur.com/DASRCe2.png" tvg-group="Italy" catchup="default" catchup-days="7",è Tv Umbria
+https://live.ipstream/etvumbria/etvumbria.stream/playlist.m3u8
+#EXTINF:0 tvg-name="Euro Tv" tvg-logo="https://i.imgur.com/HCl5Zbu.png" tvg-group="Italy" catchup="default" catchup-days="7",Euro Tv
+https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
+#EXTINF:0 tvg-name="Extra Tv" tvg-logo="https://i.imgur.com/KCBurST.png" tvg-group="Italy" catchup="default" catchup-days="7",Extra Tv
+https://rst2.saiuzwebnetwork:8081/extratvlive/index.m3u8
+#EXTINF:0 tvg-name="FM Tv Marche" tvg-logo="https://i.imgur.com/yY01NhL.jpg" tvg-group="Italy" catchup="default" catchup-days="7",FM Tv Marche
+https://bbtv.intvstream.net:3988/hybrid/play.m3u8
+#EXTINF:0 tvg-name="Fano Tv" tvg-logo="https://i.imgur.com/orqEzJ6.png" tvg-group="Italy" catchup="default" catchup-days="7",Fano Tv
+https://diretta.arcapuglia:8080/live/fanotv/index.m3u8
+#EXTINF:0 tvg-name="Fascino Tv" tvg-logo="https://i.imgur.com/4XYYY5B.png" tvg-group="Italy" catchup="default" catchup-days="7",Fascino Tv
+https://5f22d76e220e1.streamlock.net/canale157/canale157/playlist.m3u8
+#EXTINF:0 tvg-name="GRP Televisione" tvg-logo="https://i.imgur.com/1zNPpVE.png" tvg-group="Italy" catchup="default" catchup-days="7",GRP Televisione
+https://webstream.multistream/memfs/a3195c96-f884-4c74-924f-2648814fc0b5.m3u8
+#EXTINF:0 tvg-name="GarganoTv" tvg-logo="https://i.imgur.com/OlJohKK.png" tvg-group="Italy" catchup="default" catchup-days="7",GarganoTv
+https://cdn80-ger.azotosolutions.com:8443/cdnedge3/smil:live3.smil/playlist.m3u8
+#EXTINF:0 tvg-name="Giornale Radio Tv" tvg-logo="https://i.imgur.com/TMtvCLL.jpg" tvg-group="Italy" catchup="default" catchup-days="7",Giornale Radio Tv
+https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8
+#EXTINF:0 tvg-name="Giovanni Paolo Tv" tvg-logo="https://i.imgur.com/GH5eJE6.png" tvg-group="Italy" catchup="default" catchup-days="7",Giovanni Paolo Tv
+https://media2021.rtvweb.com/giovannipaolotv/web/chunklist_w663456797.m3u8
+#EXTINF:0 tvg-name="Globus Television" tvg-logo="https://i.imgur.com/yUTYqCv.png" tvg-group="Italy" catchup="default" catchup-days="7",Globus Television
+https://cdn.cubws.com/live/globus.m3u8
+#EXTINF:0 tvg-name="Gold Tv" tvg-id="GoldTV" tvg-logo="https://i.imgur.com/3rVi4kD.png" tvg-group="Italy" catchup="default" catchup-days="7",Gold Tv
+https://goldtv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
+#EXTINF:0 tvg-name="GO-TV Channel" tvg-id="GOTVCanale163" tvg-logo="https://i.imgur.com/xgjrAAn.png" tvg-group="Italy" catchup="default" catchup-days="7",GO-TV Channel
+https://6zklxkbbdw9b-hls-live.mariatvcdn/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8
+#EXTINF:0 tvg-name="GS Channel" tvg-logo="https://i.imgur.com/ExfxCRv.png" tvg-group="Italy" catchup="default" catchup-days="7",GS Channel
+https://rst.saiuzwebnetwork:8081/retereggio/index.m3u8
+#EXTINF:0 tvg-name="Icaro Tv Rimini" tvg-logo="https://i.imgur.com/z05VSSN.png" tvg-group="Italy" catchup="default" catchup-days="7",Icaro Tv Rimini
+https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8
+#EXTINF:0 tvg-name="Idea Plus" tvg-logo="https://i.imgur.com/2edmxYF.png" tvg-group="Italy" catchup="default" catchup-days="7",Idea Plus
+https://rst.saiuzwebnetwork:19360/teleidea/teleidea.m3u8
+#EXTINF:0 tvg-name="Italia 2 Tv" tvg-id="Italia2TV" tvg-logo="https://i.imgur.com/ISbxfY0.png" tvg-group="Italy" catchup="default" catchup-days="7",Italia 2 Tv
+https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8
+#EXTINF:0 tvg-name="Italia 7" tvg-logo="https://i.imgur.com/YBXkY4w.png" tvg-group="Italy" catchup="default" catchup-days="7",Italia 7
+https://streaming.softwarecreation/Italia7/Italia7/playlist.m3u8
+#EXTINF:0 tvg-name="Italia 8 Prestige" tvg-logo="https://i.imgur.com/uDxWI4a.png" tvg-group="Italy" catchup="default" catchup-days="7",Italia 8 Prestige
+https://5f22d76e220e1.streamlock.net/italia8prestige/italia8prestige/playlist.m3u8
+#EXTINF:0 tvg-name="Italia Channel" tvg-id="ItaliaChannel" tvg-logo="https://i.imgur.com/zuuKXGv.png" tvg-group="Italy" catchup="default" catchup-days="7",Italia Channel
+https://stream1.aswifi/italiachannel/stream/index.m3u8
+#EXTINF:0 tvg-name="Iunior Tv" tvg-id="IuniorTV" tvg-logo="https://i.imgur.com/9jeNlLE.png" tvg-group="Italy" catchup="default" catchup-days="7",Iunior Tv
+https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
+#EXTINF:0 tvg-name="L'Altro Corriere Tv" tvg-logo="https://i.imgur.com/dgj79J3.png" tvg-group="Italy" catchup="default" catchup-days="7",L'Altro Corriere Tv
+https://stream.cp.ets-sistemi:1936/laltrocorriere-tv/laltrocorriere-tv/playlist.m3u8
+#EXTINF:0 tvg-name="La Nuova Tv" tvg-logo="https://i.imgur.com/wg8FhdN.png" tvg-group="Italy" catchup="default" catchup-days="7",La Nuova Tv
+https://5dcabf026b188.streamlock.net/lanuovatvbas/livestream/playlist.m3u8
+#EXTINF:0 tvg-name="La Tenda Tv" tvg-logo="https://i.imgur.com/XnBp0hT.png" tvg-group="Italy" catchup="default" catchup-days="7",La Tenda Tv
+https://2-fss-1.streamhoster.com/pl_148/206202-2980948-1/playlist.m3u8
+#EXTINF:0 tvg-name="La tr3 Marsala" tvg-logo="https://i.imgur.com/XlxpfEx.png" tvg-group="Italy" catchup="default" catchup-days="7",La tr3 Marsala
+https://tsw.streamingwebtv24:1936/eslife1/eslife1/playlist.m3u8
+#EXTINF:0 tvg-name="LaC News 24" tvg-logo="https://i.imgur.com/02vCECa.png" tvg-group="Italy" catchup="default" catchup-days="7",LaC News 24
+https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8
+#EXTINF:0 tvg-name="LaC Tv Calabria" tvg-logo="https://i.imgur.com/2Ef6crS.png" tvg-group="Italy" catchup="default" catchup-days="7",LaC Tv Calabria
+https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8
+#EXTINF:0 tvg-name="Lab Tv" tvg-logo="https://i.imgur.com/OpRS6Fl.png" tvg-group="Italy" catchup="default" catchup-days="7",Lab Tv
+https://customer-yzibk50951uq418a.cloudflarestream.com/a58893dee4b9922a75e41b4ec4243f84/manifest/video.m3u8
+#EXTINF:0 tvg-name="Lazio Tv" tvg-logo="https://i.imgur.com/DAj5Uwb.png" tvg-group="Italy" catchup="default" catchup-days="7",Lazio Tv
+https://laziotv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
+#EXTINF:0 tvg-name="Le Cronache Lucane Tv" tvg-logo="https://i.imgur.com/EBY3IZL.jpg" tvg-group="Italy" catchup="default" catchup-days="7",Le Cronache Lucane Tv
+http://stucazz.com:8888/hls/cronache.m3u8
+#EXTINF:0 tvg-name="Lira Tv" tvg-logo="https://i.imgur.com/S0ReVEo.png" tvg-group="Italy" catchup="default" catchup-days="7",Lira Tv
+https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8
+#EXTINF:0 tvg-name="Lombardia Tv" tvg-logo="https://i.imgur.com/aksVy9f.jpg" tvg-group="Italy" catchup="default" catchup-days="7",Lombardia Tv
+https://5db313b643fd8.streamlock.net/lmbiatv/lmbiatv/playlist.m3u8
+#EXTINF:0 tvg-name="Love in Venice" tvg-logo="https://i.imgur.com/lLBzzce.png" tvg-group="Italy" catchup="default" catchup-days="7",Love in Venice
+http://59d7d6f47d7fc.streamlock.net/loveinvenice/loveinvenice/playlist.m3u8
+#EXTINF:0 tvg-name="Lucania Tv" tvg-logo="https://i.imgur.com/wuUNVR5.png" tvg-group="Italy" catchup="default" catchup-days="7",Lucania Tv
+https://cdn15.streamshow/cloud-lucaniatv/lucaniatv/playlist.m3u8
+#EXTINF:0 tvg-name="Made in BO" tvg-logo="https://i.imgur.com/WFnrMS0.png" tvg-group="Italy" catchup="default" catchup-days="7",Made in BO
+https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
+#EXTINF:0 tvg-name="Maria Vision" tvg-logo="https://i.imgur.com/fdx5YXi.png" tvg-group="Italy" catchup="default" catchup-days="7",Maria Vision
+https://1601580044.rsc.cdn77.org/live/_jcn_/amls:CHANNEL_2/playlist.m3u8
+#EXTINF:0 tvg-name="Matrix Tv" tvg-logo="https://i.imgur.com/m1HeXrn.png" tvg-group="Italy" catchup="default" catchup-days="7",Matrix Tv
+https://5f22d76e220e1.streamlock.net/GrandeItalia/GrandeItalia/playlist.m3u8
+#EXTINF:0 tvg-name="Mediterranea Tv" tvg-logo="https://i.imgur.com/GUTOqRt.png" tvg-group="Italy" catchup="default" catchup-days="7",Mediterranea Tv
+https://stream1.aswifi/mediterraneatv/live/index.m3u8
+#EXTINF:0 tvg-name="Medjugorje Italia Tv" tvg-logo="https://i.imgur.com/hkZScXf.png" tvg-group="Italy" catchup="default" catchup-days="7",Medjugorje Italia Tv
+https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8
+#EXTINF:0 tvg-name="Medjugorje Tv Puglia" tvg-logo="https://i.imgur.com/IWBeddh.png" tvg-group="Italy" catchup="default" catchup-days="7",Medjugorje Tv Puglia
+https://diretta.arcapuglia:8080/live/medjugorietv/index.m3u8
+#EXTINF:0 tvg-name="Minformo Tv" tvg-logo="https://i.imgur.com/VJNtnZM.jpg" tvg-group="Italy" catchup="default" catchup-days="7",Minformo Tv
+https://5db313b643fd8.streamlock.net:443/MinformoTV/MinformoTV/playlist.m3u8
+#EXTINF:0 tvg-name="Motori Tv" tvg-logo="https://i.imgur.com/NWXQKbl.png" tvg-group="Italy" catchup="default" catchup-days="7",Motori Tv
+https://5f22d76e220e1.streamlock.net/servizio01/servizio01/playlist.m3u8
+#EXTINF:0 tvg-name="NTI Canale 271" tvg-logo="https://i.imgur.com/zlmcUe0.jpg" tvg-group="Italy" catchup="default" catchup-days="7",NTI Canale 271
+https://www.ntimedia/video/S0B/S0B_master.m3u8
+#EXTINF:0 tvg-name="News24 City" tvg-logo="https://i.imgur.com/dak9AtV.png" tvg-group="Italy" catchup="default" catchup-days="7",News24 City
+https://dc3.telesveva.com:4433/news24.mp4
+#EXTINF:0 tvg-name="Nuova TV Nazionale" tvg-logo="https://i.imgur.com/QWlRuXg.png" tvg-group="Italy" catchup="default" catchup-days="7",Nuova TV Nazionale
+https://stream4.xdevel.com/video0s975955-782/stream/playlist.m3u8
+#EXTINF:0 tvg-name="Nuova Tv 1" tvg-logo="https://i.imgur.com/1yqTZhR.png" tvg-group="Italy" catchup="default" catchup-days="7",Nuova Tv 1
+https://nuovatv.net:8443/tv/stream.m3u8
+#EXTINF:0 tvg-name="Nuova Tv 2" tvg-logo="https://i.imgur.com/0vauyV3.png" tvg-group="Italy" catchup="default" catchup-days="7",Nuova Tv 2
+https://nuovatv.net:8443/tv2/stream.m3u8
+#EXTINF:0 tvg-name="Nuvola Tv" tvg-logo="https://i.imgur.com/EDGez2x.png" tvg-group="Italy" catchup="default" catchup-days="7",Nuvola Tv
+https://stream.nuvola.tv:8181/memfs/4aaa6328-1879-4ebf-b18a-498146d0c61c.m3u8
+#EXTINF:0 tvg-name="Odeon 24" tvg-logo="https://i.imgur.com/M1tVBuH.png" tvg-group="Italy" catchup="default" catchup-days="7",Odeon 24
+https://odeon.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
+#EXTINF:0 tvg-name="Ofanto Tv" tvg-logo="https://i.imgur.com/UCgATWn.png" tvg-group="Italy" catchup="default" catchup-days="7",Ofanto Tv
+https://videostream.isgm:3276/live/tvofantolive.m3u8
+#EXTINF:0 tvg-name="Onda Novara Tv" tvg-logo="https://i.imgur.com/Qoh9CFy.png" tvg-group="Italy" catchup="default" catchup-days="7",Onda Novara Tv
+https://585b674743bbb.streamlock.net/9006/9006/playlist.m3u8
+#EXTINF:0 tvg-name="Onda Tv Sicilia" tvg-logo="https://i.imgur.com/0c5Y6lr.png" tvg-group="Italy" catchup="default" catchup-days="7",Onda Tv Sicilia
+https://5926fc9c7c5b2.streamlock.net/9040/9040/playlist.m3u8
+#EXTINF:0 tvg-name="Onda Web Radio" tvg-logo="https://i.imgur.com/3hTvrC8.jpg" tvg-group="Italy" catchup="default" catchup-days="7",Onda Web Radio
+http://178.33.224.197:1935/ondaradioweb/ondaradioweb/playlist.m3u8
+#EXTINF:0 tvg-name="Ora Tv" tvg-logo="https://i.imgur.com/clWVrvE.png" tvg-group="Italy" catchup="default" catchup-days="7",Ora Tv
+https://5db313b643fd8.streamlock.net/OraTv/OraTv/playlist.m3u8
+#EXTINF:0 tvg-name="Orler Tv" tvg-logo="https://i.imgur.com/dBkxD8e.png" tvg-group="Italy" catchup="default" catchup-days="7",Orler Tv
+https://w1.mediastreaming/orlertv/livestream/playlist.m3u8
+#EXTINF:0 tvg-name="Otto Channel" tvg-logo="https://i.imgur.com/HRonD2N.png" tvg-group="Italy" catchup="default" catchup-days="7",Otto Channel
+https://ottop-live-meride.akamaized.net/hls/live/2039996/ch1/playlist.m3u8
+#EXTINF:0 tvg-name="Padre Pio Tv" tvg-logo="https://i.imgur.com/7ajxEPH.png" tvg-group="Italy" catchup="default" catchup-days="7",Padre Pio Tv
+https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
+#EXTINF:0 tvg-name="Paradise Tv" tvg-logo="https://i.imgur.com/okIBfIb.jpg" tvg-group="Italy" catchup="default" catchup-days="7",Paradise Tv
+https://tsw.streamingwebtv24:1936/paradisetv/paradisetv/playlist.m3u8
+#EXTINF:0 tvg-name="Parole di Vita" tvg-logo="https://i.imgur.com/M9mIiZD.png" tvg-group="Italy" catchup="default" catchup-days="7",Parole di Vita
+https://64b16f23efbee.streamlock.net/paroledivita/paroledivita/playlist.m3u8
+#EXTINF:0 tvg-name="Partenope Tv" tvg-logo="https://i.imgur.com/FtuWkj1.png" tvg-group="Italy" catchup="default" catchup-days="7",Partenope Tv
+https://diretta.arcapuglia:8080/live/partenope/index.m3u8
+#EXTINF:0 tvg-name="Peer Tv Alto Adige" tvg-id="PeerTV" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-alto-adige.png" tvg-group="Italy" catchup="default" catchup-days="7",Peer Tv Alto Adige
+https://iptv.peer.biz/live/peertv-it.m3u8
+#EXTINF:0 tvg-name="Pop Tv" tvg-logo="https://i.imgur.com/TeolCu9.png" tvg-group="Italy" catchup="default" catchup-days="7",Pop Tv
+https://stream1.aswifi/poptelevision/live/index.m3u8
+#EXTINF:0 tvg-name="Prima Tv Napoli" tvg-logo="https://i.imgur.com/yPuQeEy.jpg" tvg-group="Italy" catchup="default" catchup-days="7",Prima Tv Napoli
+https://57068da1deb21.streamlock.net/primatvnapoli/primatvnapoli/playlist.m3u8
+#EXTINF:0 tvg-name="Prima Tv Sicilia" tvg-logo="https://i.imgur.com/br45JER.png" tvg-group="Italy" catchup="default" catchup-days="7",Prima Tv Sicilia
+https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8
+#EXTINF:0 tvg-name="PrimaFREE" tvg-logo="https://i.imgur.com/YrSSmOL.png" tvg-group="Italy" catchup="default" catchup-days="7",PrimaFREE
+https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8
+#EXTINF:0 tvg-name="Primantenna Torino" tvg-logo="https://i.imgur.com/sqEcPFs.gif" tvg-group="Italy" catchup="default" catchup-days="7",Primantenna Torino
+https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8
+#EXTINF:0 tvg-name="Primocanale" tvg-logo="https://i.imgur.com/xWF1A1U.png" tvg-group="Italy" catchup="default" catchup-days="7",Primocanale
+https://msh0203.stream.seeweb/live/flv:stream2.sdp/playlist.m3u8
+#EXTINF:0 tvg-name="Promovideo Tv" tvg-logo="https://i.imgur.com/MwK9HVG.png" tvg-group="Italy" catchup="default" catchup-days="7",Promovideo Tv
+https://media2021.rtvweb.com/promovideo_web/promovideo/playlist.m3u8
+#EXTINF:0 tvg-name="Quarto Canale Flegreo" tvg-logo="https://i.imgur.com/8RKY3Du.png" tvg-group="Italy" catchup="default" catchup-days="7",Quarto Canale Flegreo
+http://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8
+#EXTINF:0 tvg-name="Radio 3M InBlu" tvg-logo="https://i.imgur.com/d7O7Uqa.png" tvg-group="Italy" catchup="default" catchup-days="7",Radio 3M InBlu
+https://stream.mariatvcdn.com/telemistrettaradio/900bfcc0f9012ea272584fd5ff5281b8.sdp/playlist.m3u8
+#EXTINF:0 tvg-name="Radio 51 Tv" tvg-logo="https://uaznao.com/wp-content/uploads/2023/03/radio51.png" tvg-group="Italy" catchup="default" catchup-days="7",Radio 51 Tv
+https://59d7d6f47d7fc.streamlock.net/canale51/canale51/chunklist_w1193883900.m3u8
+#EXTINF:0 tvg-name="Radio Birikina Tv" tvg-logo="https://uaznao.com/wp-content/uploads/2023/03/radiobirikina.png" tvg-group="Italy" catchup="default" catchup-days="7",Radio Birikina Tv
+https://tvd-bk.fluid.stream/RadioBirikinaTV/livestream/chunklist_w84398277.m3u8
+#EXTINF:0 tvg-name="Radio Bruno Tv" tvg-logo="https://i.imgur.com/y4vKE83.png" tvg-group="Italy" catchup="default" catchup-days="7",Radio Bruno Tv
+https://router.xdevel.com/video0s975758-473/stream/playlist.m3u8
+#EXTINF:0 tvg-name="Radio Ibiza" tvg-logo="https://i.imgur.com/uu0DHY5.png" tvg-group="Italy" catchup="default" catchup-days="7",Radio Ibiza
+https://str48.fluid.stream/RadioIbizaTV/livestream/playlist.m3u8
+#EXTINF:0 tvg-name="Radio Immagine Tv" tvg-logo="https://i.imgur.com/iQlXRAB.png" tvg-group="Italy" catchup="default" catchup-days="7",Radio Immagine Tv
+https://media.velcom:8081/RadioImmagineTV/index.fmp4.m3u8
+#EXTINF:0 tvg-name="Radio Italia Cina Tv" tvg-logo="https://i.imgur.com/QGkyrO3.png" tvg-group="Italy" catchup="default" catchup-days="7",Radio Italia Cina Tv
+https://585b674743bbb.streamlock.net/9054/9054/playlist.m3u8
+#EXTINF:0 tvg-name="Radio Libertà" tvg-logo="https://i.imgur.com/HRvPlf5.png" tvg-group="Italy" catchup="default" catchup-days="7",Radio Libertà
+https://router.xdevel.com/video0s975360-67/stream/playlist_dvr.m3u8
+#EXTINF:0 tvg-name="Radio m2o Tv" tvg-id="m2oTV" tvg-logo="https://i.imgur.com/wl30UFj.png" tvg-group="Italy" catchup="default" catchup-days="7",Radio m2o Tv
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+#EXTINF:0 tvg-name="Radio Monte Kronio Tv (R.M.K.)" tvg-logo="https://i.imgur.com/t0I2Shi.jpg" tvg-group="Italy" catchup="default" catchup-days="7",Radio Monte Kronio Tv (R.M.K.)
+https://648026e87a75e.streamlock.net/rmktv/rmktv/playlist.m3u8
+#EXTINF:0 tvg-name="Radio Norba Tv" tvg-id="RadionorbaTV" tvg-logo="https://i.imgur.com/qftBPM9.png" tvg-group="Italy" catchup="default" catchup-days="7",Radio Norba Tv
+https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
+#EXTINF:0 tvg-name="Radio Piter Pan Tv" tvg-logo="https://uaznao.com/wp-content/uploads/2023/03/radiopiterpan.png" tvg-group="Italy" catchup="default" catchup-days="7",Radio Piter Pan Tv
+https://tvd-piter.fluid.stream/RadioPiterpanTV/livestream/chunklist_w1866496033.m3u8
+#EXTINF:0 tvg-name="Radio Radio Tv" tvg-id="RadioRadioTV" tvg-logo="https://i.imgur.com/iKuRg2b.png" tvg-group="Italy" catchup="default" catchup-days="7",Radio Radio Tv
+https://200912.global.ssl.fastly.net/646b335e2291a2022444bb7c/live_22f84390fe1411ed919df3da85a483cc/rewind-14400.m3u8
+#EXTINF:0 tvg-name="Radio Radiosa Tv" tvg-logo="https://i.imgur.com/8kqyxvz.png" tvg-group="Italy" catchup="default" catchup-days="7",Radio Radiosa Tv
+https://stream7.zivoli/radiosatv/radiosatv/playlist.m3u8
+#EXTINF:0 tvg-name="Radio Roma" tvg-logo="https://i.imgur.com/RKvfStm.png" tvg-group="Italy" catchup="default" catchup-days="7",Radio Roma
+https://585b674743bbb.streamlock.net/9044/9044/playlist.m3u8
+#EXTINF:0 tvg-name="Radio Roma Television" tvg-logo="https://i.imgur.com/RKvfStm.png" tvg-group="Italy" catchup="default" catchup-days="7",Radio Roma Television
+https://5926fc9c7c5b2.streamlock.net/rtfeunawfu/rtfeunawfu/playlist.m3u8
+#EXTINF:0 tvg-name="Ran Friul" tvg-logo="https://i.imgur.com/Qs5eQPM.png" tvg-group="Italy" catchup="default" catchup-days="7",Ran Friul
+https://5f22d76e220e1.streamlock.net/RanFriul/RanFriul/playlist.m3u8
+#EXTINF:0 tvg-name="RDE Tv" tvg-logo="https://i.imgur.com/NiwPlrr.png" tvg-group="Italy" catchup="default" catchup-days="7",RDE Tv
+https://rst2.saiuzwebnetwork:8081/rdetrieste/index.m3u8
+#EXTINF:0 tvg-name="Reggio Tv" tvg-logo="https://i.imgur.com/merrg2C.png" tvg-group="Italy" catchup="default" catchup-days="7",Reggio Tv
+https://cdn10.streamshow/cloud-reggiotv/reggiotv/playlist.m3u8
+#EXTINF:0 tvg-name="Rei Tv" tvg-logo="https://i.imgur.com/YNRWFOo.png" tvg-group="Italy" catchup="default" catchup-days="7",Rei Tv
+https://5f22d76e220e1.streamlock.net/reitv/reitv/playlist.m3u8
+#EXTINF:0 tvg-name="Rete 55" tvg-logo="https://i.imgur.com/EsZn2cj.png" tvg-group="Italy" catchup="default" catchup-days="7",Rete 55
+https://live1.giocabet.tv/stream/6/index.m3u8
+#EXTINF:0 tvg-name="Rete 8 Vga" tvg-logo="https://i.imgur.com/3wF2AJX.jpg" tvg-group="Italy" catchup="default" catchup-days="7",Rete 8 Vga
+https://604e46ac2bdee.streamlock.net:1936/rete8_1/rete8_1/playlist.m3u8
+#EXTINF:0 tvg-name="Rete 8" tvg-logo="https://i.imgur.com/bGsjPRh.png" tvg-group="Italy" catchup="default" catchup-days="7",Rete 8
+https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8
+#EXTINF:0 tvg-name="Rete 8 Sport" tvg-logo="https://i.imgur.com/uUAjWlF.png" tvg-group="Italy" catchup="default" catchup-days="7",Rete 8 Sport
+https://64b16f23efbee.streamlock.net/rete8sport/rete8sport/playlist.m3u8
+#EXTINF:0 tvg-name="Rete Biella Tv" tvg-logo="https://i.imgur.com/e2ryHx7.png" tvg-group="Italy" catchup="default" catchup-days="7",Rete Biella Tv
+https://sb.top-ix.org/retebiella/streaming/playlist.m3u8
+#EXTINF:0 tvg-name="Rete Mia" tvg-logo="https://i.imgur.com/kCJ621Q.png" tvg-group="Italy" catchup="default" catchup-days="7",Rete Mia
+https://5db313b643fd8.streamlock.net/rete/rete/playlist.m3u8
+#EXTINF:0 tvg-name="Rete Oro Tv" tvg-logo="https://i.imgur.com/OCxGtwA.png" tvg-group="Italy" catchup="default" catchup-days="7",Rete Oro Tv
+https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
+#EXTINF:0 tvg-name="Rete Sole" tvg-logo="https://i.imgur.com/u0ezKgE.png" tvg-group="Italy" catchup="default" catchup-days="7",Rete Sole
+https://5926fc9c7c5b2.streamlock.net/9332/9332/playlist.m3u8
+#EXTINF:0 tvg-name="Rete Tv Italia" tvg-logo="https://i.imgur.com/lXGWoV9.png" tvg-group="Italy" catchup="default" catchup-days="7",Rete Tv Italia
+https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8
+#EXTINF:0 tvg-name="Rete Veneta" tvg-logo="https://i.imgur.com/cInhQFp.png" tvg-group="Italy" catchup="default" catchup-days="7",Rete Veneta
+http://wms.shared.streamshow/reteveneta/reteveneta/playlist.m3u8
+#EXTINF:0 tvg-name="Roma Tv 82" tvg-logo="https://i.imgur.com/C3UnlFF.png" tvg-group="Italy" catchup="default" catchup-days="7",Roma Tv 82
+https://streaming.softwarecreation/RomaCH71/RomaCH71/playlist.m3u8
+#EXTINF:0 tvg-name="Rossini Tv" tvg-logo="https://i.imgur.com/K0Em0nx.jpg" tvg-group="Italy" catchup="default" catchup-days="7",Rossini Tv
+https://stream.rossinitv/memfs/3bca4ad7-adfc-4610-ac0e-e826743ddc57.m3u8
+#EXTINF:0 tvg-name="RTC Quarta Rete" tvg-logo="https://i.imgur.com/rFGA6qL.png" tvg-group="Italy" catchup="default" catchup-days="7",RTC Quarta Rete
+https://msh0232.stream.seeweb/live/stream00.sdp/playlist.m3u8
+#EXTINF:0 tvg-name="RTC Telecalabria" tvg-id="RTCTelecalabria" tvg-logo="https://i.imgur.com/tTYLcuh.jpg" tvg-group="Italy" catchup="default" catchup-days="7",RTC Telecalabria
+https://w1.mediastreaming/calabriachannel/livestream/playlist.m3u8
+#EXTINF:0 tvg-name="RTI Calabria" tvg-logo="https://i.imgur.com/hVzEvmo.jpg" tvg-group="Italy" catchup="default" catchup-days="7",RTI Calabria
+https://stream.ets-sistemi:8081/rticalabria/index.m3u8
+#EXTINF:0 tvg-name="RTL 102.5 + Plus" tvg-id="RTL1025Plus" tvg-logo="https://i.imgur.com/mPqDtCO.png" tvg-group="Italy" catchup="default" catchup-days="7",RTL 102.5 + Plus
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S12772175/FmIo5I5kmwTy/playlist_video.m3u8
+#EXTINF:0 tvg-name="RTM Manduria" tvg-logo="https://i.imgur.com/WwzU0EP.png" tvg-group="Italy" catchup="default" catchup-days="7",RTM Manduria
+https://5f22d76e220e1.streamlock.net/rtm/rtm/playlist.m3u8
+#EXTINF:0 tvg-name="RTR99 Tv" tvg-logo="https://i.imgur.com/mkO95pD.png" tvg-group="Italy" catchup="default" catchup-days="7",RTR99 Tv
+https://5e73cf528f404.streamlock.net/RTR99TV/livestream/playlist.m3u8
+#EXTINF:0 tvg-name="Rtp Tv" tvg-logo="https://i.imgur.com/I1hYI0C.png" tvg-group="Italy" catchup="default" catchup-days="7",Rtp Tv
+http://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
+#EXTINF:0 tvg-name="Rttr" tvg-logo="https://i.imgur.com/z7xMArA.png" tvg-group="Italy" catchup="default" catchup-days="7",Rttr
+https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
+#EXTINF:0 tvg-name="Rtv 38 Toscana" tvg-logo="https://i.imgur.com/xqlhJqK.png" tvg-group="Italy" catchup="default" catchup-days="7",Rtv 38 Toscana
+https://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/playlist_dvr.m3u8
+#EXTINF:0 tvg-name="SL 48 Tv" tvg-logo="https://i.imgur.com/b58oouu.jpg" tvg-group="Italy" catchup="default" catchup-days="7",SL 48 Tv
+http://media.velcom:1935/sl48/sl48/playlist.m3u8
+#EXTINF:0 tvg-name="ST Europe Channel" tvg-logo="https://i.imgur.com/QpPgSfr.png" tvg-group="Italy" catchup="default" catchup-days="7",ST Europe Channel
+https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8
+#EXTINF:0 tvg-name="Sardegna 1" tvg-logo="https://i.imgur.com/YNEW2h2.png" tvg-group="Italy" catchup="default" catchup-days="7",Sardegna 1
+https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/live/S30721796/ZS3Xu8mn5f0J/playlist.m3u8
+#EXTINF:0 tvg-name="Set Tv Cilento" tvg-logo="https://i.imgur.com/qN5D1jD.png" tvg-group="Italy" catchup="default" catchup-days="7",Set Tv Cilento
+https://stream1.aswifi/settv/live/index.m3u8
+#EXTINF:0 tvg-name="Sesta Rete" tvg-logo="https://i.imgur.com/0B0S2gI.png" tvg-group="Italy" catchup="default" catchup-days="7",Sesta Rete
+https://stream10.xdevel.com/video0s977089-1792/stream/playlist.m3u8
+#EXTINF:0 tvg-name="Sicilia 24 Tv" tvg-logo="https://i.imgur.com/GhQX36O.png" tvg-group="Italy" catchup="default" catchup-days="7",Sicilia 24 Tv
+https://5f22d76e220e1.streamlock.net/sicilia24/sicilia24/playlist.m3u8
+#EXTINF:0 tvg-name="Sicilia Tv" tvg-logo="https://i.imgur.com/I5FoThW.png" tvg-group="Italy" catchup="default" catchup-days="7",Sicilia Tv
+https://stream9.xdevel.com/video0s976441-1226/stream/playlist.m3u8
+#EXTINF:0 tvg-name="Sienatv" tvg-logo="https://i.imgur.com/gcysky4.png" tvg-group="Italy" catchup="default" catchup-days="7",Sienatv
+https://router.xdevel.com/video0s976727-1441/stream/playlist.m3u8
+#EXTINF:0 tvg-name="Sophia Tv" tvg-logo="https://i.imgur.com/fiLNK3b.jpg" tvg-group="Italy" catchup="default" catchup-days="7",Sophia Tv
+https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8
+#EXTINF:0 tvg-name="Stiletv" tvg-logo="https://i.imgur.com/ZP3cJi7.png" tvg-group="Italy" catchup="default" catchup-days="7",Stiletv
+https://proxy.media.convergenze/stiletv/streams/oQOFd7JglHjO1631525551097.m3u8
+#EXTINF:0 tvg-name="Super J Tv" tvg-logo="https://i.imgur.com/5oy5Nuu.png" tvg-group="Italy" catchup="default" catchup-days="7",Super J Tv
+https://59d39900ebfb8.streamlock.net/SuperJtv/SuperJtv/playlist.m3u8
+#EXTINF:0 tvg-name="Super Six" tvg-id="SuperSix" tvg-logo="https://i.imgur.com/kHSuyub.png" tvg-group="Italy" catchup="default" catchup-days="7",Super Six
+https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
+#EXTINF:0 tvg-name="Supertv" tvg-logo="https://i.imgur.com/7gUZcEh.png" tvg-group="Italy" catchup="default" catchup-days="7",Supertv
+http://wms.shared.streamshow:1935/supertv/supertv/live.m3u8
+#EXTINF:0 tvg-name="T9" tvg-logo="https://i.imgur.com/XzL05Py.png" tvg-group="Italy" catchup="default" catchup-days="7",T9
+https://t9tv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
+#EXTINF:0 tvg-name="TRC Santeramo" tvg-logo="https://i.imgur.com/VbYdS8P.jpg" tvg-group="Italy" catchup="default" catchup-days="7",TRC Santeramo
+https://stream7.livinlive/trc/trc/playlist.m3u8
+#EXTINF:0 tvg-name="TRL Tele Radio Leo" tvg-logo="https://i.imgur.com/qAagkJT.png" tvg-group="Italy" catchup="default" catchup-days="7",TRL Tele Radio Leo
+https://5db313b643fd8.streamlock.net/TRL/TRL/playlist.m3u8
+#EXTINF:0 tvg-name="TSD Tv Arezzo(Tele San Domenico)" tvg-logo="https://i.imgur.com/WQ8eQXc.png" tvg-group="Italy" catchup="default" catchup-days="7",TSD Tv Arezzo(Tele San Domenico)
+https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/playlist.m3u8
+#EXTINF:0 tvg-name="TVL (TV Libera Pistoia)" tvg-logo="https://i.imgur.com/07geF0L.png" tvg-group="Italy" catchup="default" catchup-days="7",TVL (TV Libera Pistoia)
+http://live.mariatvcdn.com/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/mono.m3u8
+#EXTINF:0 tvg-name="Tcf Tv" tvg-logo="https://i.imgur.com/fiylFs2.jpg" tvg-group="Italy" catchup="default" catchup-days="7",Tcf Tv
+https://stream10.xdevel.com/video1s977294-1864/stream/playlist.m3u8
+#EXTINF:0 tvg-name="Tci" tvg-logo="https://i.imgur.com/lCZTaKs.jpg" tvg-group="Italy" catchup="default" catchup-days="7",Tci
+https://tbn-jw.cdn.vustreams.com/live/tci/live.isml/2b7d53c5-b504-4d26-b25f-a70deb8d0faf.m3u8
+#EXTINF:0 tvg-name="Teatro Tv" tvg-logo="https://i.imgur.com/UsvffQL.png" tvg-group="Italy" catchup="default" catchup-days="7",Teatro Tv
+https://m.iostream/hls/teatrotv/teatrotv.m3u8
+#EXTINF:0 tvg-name="Tele A" tvg-logo="https://i.imgur.com/l7Za9KH.jpg" tvg-group="Italy" catchup="default" catchup-days="7",Tele A
+https://lostream/hls/telea/video.m3u8
+#EXTINF:0 tvg-name="Tele Abruzzo Tv" tvg-logo="https://i.imgur.com/koB8J4b.jpg" tvg-group="Italy" catchup="default" catchup-days="7",Tele Abruzzo Tv
+http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
+#EXTINF:0 tvg-name="Tele Acras" tvg-logo="https://i.imgur.com/90Lsv8q.png" tvg-group="Italy" catchup="default" catchup-days="7",Tele Acras
+https://5db313b643fd8.streamlock.net/teleacras/teleacras/playlist.m3u8
+#EXTINF:0 tvg-name="Tele Arena" tvg-logo="https://i.imgur.com/9hsoWMO.png" tvg-group="Italy" catchup="default" catchup-days="7",Tele Arena
+https://5e73cf528f404.streamlock.net/TeleArena/TeleArena.stream/playlist.m3u8
+#EXTINF:0 tvg-name="Tele Bari" tvg-logo="https://i.imgur.com/HYSz4rx.png" tvg-group="Italy" catchup="default" catchup-days="7",Tele Bari
+https://w1.mediastreaming/telebari/livestream/playlist.m3u8
+#EXTINF:0 tvg-name="Tele Belluno" tvg-logo="https://i.imgur.com/YiM2Z7E.png" tvg-group="Italy" catchup="default" catchup-days="7",Tele Belluno
+https://live.mariatvcdn.com/telebelluno/a3b80388da9801906adf885282e73bc3.sdp/mono.m3u8
+#EXTINF:0 tvg-name="Tele Boario" tvg-logo="https://i.imgur.com/LlLD3L6.png" tvg-group="Italy" catchup="default" catchup-days="7",Tele Boario
+https://stream7.xdevel.com/video0s976425-1244/stream/playlist_dvr.m3u8
+#EXTINF:0 tvg-name="Tele Bruzzano" tvg-logo="https://i.imgur.com/7TWbCDt.jpg" tvg-group="Italy" catchup="default" catchup-days="7",Tele Bruzzano
+https://playerssl.telemia.tv/fileadmin/hls/Telebruzzano/telebruzzano_mediachunks.m3u8
+#EXTINF:0 tvg-name="Tele Chiara" tvg-logo="https://i.imgur.com/Q5XpnXR.png" tvg-group="Italy" catchup="default" catchup-days="7",Tele Chiara
+http://fms.tvavicenza:1935/telechiara/diretta/playlist.m3u8
+#EXTINF:0 tvg-name="Telecolor" tvg-id="TelecolorLombardia" tvg-logo="https://i.imgur.com/urUG78J.png" tvg-group="Italy" catchup="default" catchup-days="7",Telecolor
+https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/playlist.m3u8
+#EXTINF:0 tvg-name="Tele Cupole" tvg-logo="https://i.imgur.com/ZmUI9zb.png" tvg-group="Italy" catchup="default" catchup-days="7",Tele Cupole
+https://nrvideo1.newradio/euhsbdamnx/euhsbdamnx/playlist.m3u8
+#EXTINF:0 tvg-name="Tele Estense" tvg-logo="https://i.imgur.com/X7i7DWo.png" tvg-group="Italy" catchup="default" catchup-days="7",Tele Estense
+https://5e73cf528f404.streamlock.net/TeleEstense/livestream/playlist.m3u8
+#EXTINF:0 tvg-name="Tele Foggia" tvg-logo="https://i.imgur.com/M7tqBu9.jpg" tvg-group="Italy" catchup="default" catchup-days="7",Tele Foggia
+https://59d7d6f47d7fc.streamlock.net/telefoggia/telefoggia/playlist.m3u8
+#EXTINF:0 tvg-name="Tele Friuli" tvg-logo="https://i.imgur.com/AoQxZxD.png" tvg-group="Italy" catchup="default" catchup-days="7",Tele Friuli
+https://5757bf2aa08e42248fb9b9d620f5d900.msvdn.net/live/S11646715/pE3ax0lT0rBd/playlist.m3u8
+#EXTINF:0 tvg-name="Tele Ischia" tvg-logo="https://i.imgur.com/vihHVQn.jpg" tvg-group="Italy" catchup="default" catchup-days="7",Tele Ischia
+https://rst.saiuzwebnetwork:8081/teleischia/index.m3u8
+#EXTINF:0 tvg-name="Tele Jonio" tvg-logo="https://i.imgur.com/qJeDV8R.png" tvg-group="Italy" catchup="default" catchup-days="7",Tele Jonio
+http://59d7d6f47d7fc.streamlock.net/telejonio/telejonio/playlist.m3u8
+#EXTINF:0 tvg-name="Tele Liberta' HD" tvg-logo="https://i.imgur.com/XzAB5k7.jpg" tvg-group="Italy" catchup="default" catchup-days="7",Tele Liberta' HD
+https://streaming.liberta/hls/liberta.m3u8
+#EXTINF:0 tvg-name="Tele Liguria Sud" tvg-logo="https://i.imgur.com/BeLAYJ6.jpg" tvg-group="Italy" catchup="default" catchup-days="7",Tele Liguria Sud
+https://64b16f23efbee.streamlock.net/teleliguriasud/teleliguriasud/playlist.m3u8
+#EXTINF:0 tvg-name="Tele Mantova" tvg-logo="https://i.imgur.com/bkSPcs4.png" tvg-group="Italy" catchup="default" catchup-days="7",Tele Mantova
+https://5ce9406b73c33.streamlock.net/TeleMantova/livestream/playlist.m3u8
+#EXTINF:0 tvg-name="Tele Mia" tvg-logo="https://i.imgur.com/SdXpCwL.png" tvg-group="Italy" catchup="default" catchup-days="7",Tele Mia
+https://playerssl.telemia.tv/fileadmin/hls/TelemiaHD/telemia85_mediachunks.m3u8
+#EXTINF:0 tvg-name="Tele Mia Extra" tvg-logo="https://i.imgur.com/upzBG32.png" tvg-group="Italy" catchup="default" catchup-days="7",Tele Mia Extra
+https://playerssl.telemia.tv/fileadmin/hls/TelemiaExtra/telemiaextra_mediachunks.m3u8
+#EXTINF:0 tvg-name="Tele Mistretta" tvg-logo="https://i.imgur.com/OJ3zUS0.png" tvg-group="Italy" catchup="default" catchup-days="7",Tele Mistretta
+https://live.mariatvcdn.com/telemistretta/8fbcd205ada81b295ee6c211c3a80dde.sdp/playlist.m3u8
+#EXTINF:0 tvg-name="Tele Molise" tvg-logo="https://i.imgur.com/u5VD0x9.png" tvg-group="Italy" catchup="default" catchup-days="7",Tele Molise
+http://185.202.128.1:1935/Telemolise4K/Telemolise4K/playlist.m3u8
+#EXTINF:0 tvg-name="Tele Nord Genova" tvg-logo="https://i.imgur.com/I6yegEK.png" tvg-group="Italy" catchup="default" catchup-days="7",Tele Nord Genova
+https://64b16f23efbee.streamlock.net/telenord/telenord/playlist.m3u8
+#EXTINF:0 tvg-name="Tele Nostra" tvg-logo="https://i.imgur.com/FACahKZ.png" tvg-group="Italy" catchup="default" catchup-days="7",Tele Nostra
+https://13574-8.b.cdn12.com/hls/f099fa8883.ulive/_c/master.m3u8
+#EXTINF:0 tvg-name="Tele Occidente" tvg-logo="https://i.imgur.com/3aOiWKa.png" tvg-group="Italy" catchup="default" catchup-days="7",Tele Occidente
+https://stream9.xdevel.com/video0s976532-1292/stream/playlist.m3u8
+#EXTINF:0 tvg-name="Tele Oltre" tvg-logo="https://i.imgur.com/PxtJAxs.png" tvg-group="Italy" catchup="default" catchup-days="7",Tele Oltre
+http://1se1.troydesign.eu/np_teleoltre/_definst_/channel1_np_teleoltre/playlist.m3u8?ext=.m3u8
+#EXTINF:0 tvg-name="Tele One" tvg-logo="https://i.imgur.com/9trB6mj.png" tvg-group="Italy" catchup="default" catchup-days="7",Tele One
+https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8
+#EXTINF:0 tvg-name="Tele Pace 1" tvg-logo="https://i.imgur.com/ut0Hg8o.png" tvg-group="Italy" catchup="default" catchup-days="7",Tele Pace 1
+https://live.mariatvcdn.com/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/mono.m3u8
+#EXTINF:0 tvg-name="Tele Pace 2" tvg-logo="https://i.imgur.com/RqrPraO.png" tvg-group="Italy" catchup="default" catchup-days="7",Tele Pace 2
+https://live.mariatvcdn.com/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/mono.m3u8
+#EXTINF:0 tvg-name="Tele Pace 3" tvg-logo="https://i.imgur.com/gLsE3mX.png" tvg-group="Italy" catchup="default" catchup-days="7",Tele Pace 3
+https://live.mariatvcdn.com/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/mono.m3u8
+#EXTINF:0 tvg-name="Tele Pace 4" tvg-logo="https://i.imgur.com/tEQvgpz.png" tvg-group="Italy" catchup="default" catchup-days="7",Tele Pace 4
+https://live.mariatvcdn.com/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/mono.m3u8
+#EXTINF:0 tvg-name="Tele Pace News" tvg-logo="https://i.imgur.com/AxmgoMT.png" tvg-group="Italy" catchup="default" catchup-days="7",Tele Pace News
+https://live.mariatvcdn.com/teleradiopace6/d289fe76f16ad32afec471ea1b941583.sdp/index.m3u8
+#EXTINF:0 tvg-name="Tele Pace Roma" tvg-logo="https://i.imgur.com/54oi0cg.png" tvg-group="Italy" catchup="default" catchup-days="7",Tele Pace Roma
+https://live.mariatvcdn.com/mariatvpoint/d36592901d5429dd7f9ec1e7bbeda8c2.sdp/index.m3u8
+#EXTINF:0 tvg-name="Tele Pace Trento" tvg-logo="https://i.imgur.com/o5sQCpF.png" tvg-group="Italy" catchup="default" catchup-days="7",Tele Pace Trento
+https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8
+#EXTINF:0 tvg-name="Tele Pace Verona" tvg-logo="https://i.imgur.com/su2ipkb.png" tvg-group="Italy" catchup="default" catchup-days="7",Tele Pace Verona
+https://live.mariatvcdn.com/TelepaceVerona/a9027aba28cf4b54d10aedc38b0df192.sdp/index.m3u8
+#EXTINF:0 tvg-name="Tele Pavia" tvg-logo="https://i.imgur.com/YVodo4T.png" tvg-group="Italy" catchup="default" catchup-days="7",Tele Pavia
+http://wms.shared.streamshow:1935/telepavia/telepavia/live.m3u8
+#EXTINF:0 tvg-name="Tele Pegaso" tvg-logo="https://i.imgur.com/FQkM8Vd.png" tvg-group="Italy" catchup="default" catchup-days="7",Tele Pegaso
+https://flash2.xdevel.com/telepegasocanale812/telepegasocanale812/playlist.m3u8
+#EXTINF:0 tvg-name="Tele Piadena" tvg-logo="https://i.imgur.com/VqaPuQN.png" tvg-group="Italy" catchup="default" catchup-days="7",Tele Piadena
+https://stream3.xdevel.com/video0s975441-151/stream/playlist_dvr.m3u8
+#EXTINF:0 tvg-name="Tele Pordenone" tvg-logo="https://i.imgur.com/dbYwXwg.png" tvg-group="Italy" catchup="default" catchup-days="7",Tele Pordenone
+https://video.wifi4all/telepn/telepn.m3u8
+#EXTINF:0 tvg-name="Tele Quattro Trieste" tvg-logo="https://i.imgur.com/MFxQxve.png" tvg-group="Italy" catchup="default" catchup-days="7",Tele Quattro Trieste
+http://wms.shared.streamshow/telequattro/telequattro/playlist.m3u8
+#EXTINF:0 tvg-name="Tele Radio Ercolano" tvg-logo="https://i.imgur.com/YPuoy8N.jpg" tvg-group="Italy" catchup="default" catchup-days="7",Tele Radio Ercolano
+https://rst.saiuzwebnetwork:19360/teleradioercolano-1/teleradioercolano-1.m3u8
+#EXTINF:0 tvg-name="Tele Radio Orte" tvg-logo="https://i.imgur.com/uX2uxvN.png" tvg-group="Italy" catchup="default" catchup-days="7",Tele Radio Orte
+https://flash2.xdevel.com/ortetv/ortetv/index.m3u8
+#EXTINF:0 tvg-name="Tele Radio Sciacca" tvg-logo="https://i.imgur.com/suhz5mE.png" tvg-group="Italy" catchup="default" catchup-days="7",Tele Radio Sciacca
+https://5db313b643fd8.streamlock.net/teleradiosciaccatv/teleradiosciaccatv/playlist.m3u8
+#EXTINF:0 tvg-name="Tele Sirio" tvg-logo="https://i.imgur.com/mDN6QX1.png" tvg-group="Italy" catchup="default" catchup-days="7",Tele Sirio
+https://www.telesirio/live/stream.m3u8
+#EXTINF:0 tvg-name="Tele Spazio Messina" tvg-logo="https://i.imgur.com/Io5w6lT.png" tvg-group="Italy" catchup="default" catchup-days="7",Tele Spazio Messina
+https://rtm.cyberspazio.cloud:5443/LiveApp/streams/049229794390395765037801.m3u8
+#EXTINF:0 tvg-name="Tele Sud Puglia" tvg-logo="https://i.imgur.com/fqTLtvs.png" tvg-group="Italy" catchup="default" catchup-days="7",Tele Sud Puglia
+https://64b16f23efbee.streamlock.net/telesud/telesud/playlist.m3u8
+#EXTINF:0 tvg-name="Tele Tricolore" tvg-logo="https://i.imgur.com/A2XouAd.png" tvg-group="Italy" catchup="default" catchup-days="7",Tele Tricolore
+https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8
+#EXTINF:0 tvg-name="Tele Tutto" tvg-logo="https://i.imgur.com/sZxMP7g.png" tvg-group="Italy" catchup="default" catchup-days="7",Tele Tutto
+https://600f07e114306.streamlock.net/TT_TELETUTTO/smil:TT.smil/playlist.m3u8
+#EXTINF:0 tvg-name="Tele Tutto 2" tvg-logo="https://i.imgur.com/mxXbMaw.png" tvg-group="Italy" catchup="default" catchup-days="7",Tele Tutto 2
+https://600f07e114306.streamlock.net/TT2_TELETUTTO/livestream/playlist.m3u8
+#EXTINF:0 tvg-name="Tele Tutto 24" tvg-logo="https://i.imgur.com/weKWQgx.png" tvg-group="Italy" catchup="default" catchup-days="7",Tele Tutto 24
+https://600f07e114306.streamlock.net/TT24_TELETUTTO/livestream/playlist.m3u8
+#EXTINF:0 tvg-name="Tele Venezia" tvg-logo="https://i.imgur.com/SavGpCE.jpg" tvg-group="Italy" catchup="default" catchup-days="7",Tele Venezia
+https://59d7d6f47d7fc.streamlock.net/televenezia/televenezia/playlist.m3u8
+#EXTINF:0 tvg-name="Tele Video Agrigento (T.V.A.)" tvg-logo="https://i.imgur.com/AaPr63E.png" tvg-group="Italy" catchup="default" catchup-days="7",Tele Video Agrigento (T.V.A.)
+https://59d7d6f47d7fc.streamlock.net/tva/tva/playlist.m3u8
+#EXTINF:0 tvg-name="Tele8 Tv" tvg-logo="https://i.imgur.com/dM0HE6O.png" tvg-group="Italy" catchup="default" catchup-days="7",Tele8 Tv
+https://57068da1deb21.streamlock.net/teletv8/teletv8/playlist.m3u8
+#EXTINF:0 tvg-name="TeleAmbiente" tvg-logo="https://i.imgur.com/jxZcQhU.png" tvg-group="Italy" catchup="default" catchup-days="7",TeleAmbiente
+https://5f22d76e220e1.streamlock.net/teleambiente2024/teleambiente2024/playlist.m3u8
+#EXTINF:0 tvg-name="Telecampione" tvg-logo="https://i.imgur.com/LhjwmME.png" tvg-group="Italy" catchup="default" catchup-days="7",Telecampione
+https://5f22d76e220e1.streamlock.net/telecampione/telecampione/playlist.m3u8
+#EXTINF:0 tvg-name="Telecittà Padova" tvg-logo="https://i.imgur.com/xvVgEaA.jpg" tvg-group="Italy" catchup="default" catchup-days="7",Telecittà Padova
+https://tango.wifi4all/telecitta/telecitta.m3u8
+#EXTINF:0 tvg-name="Telecity Lombardia" tvg-logo="https://i.imgur.com/ECvJ3ZD.jpeg" tvg-group="Italy" catchup="default" catchup-days="7",Telecity Lombardia
+https://64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/playlist.m3u8
+#EXTINF:0 tvg-name="Telecity Piemonte" tvg-logo="https://i.imgur.com/CrlzHjv.jpeg" tvg-group="Italy" catchup="default" catchup-days="7",Telecity Piemonte
+https://64b16f23efbee.streamlock.net/telecitypiemonte/telecitypiemonte/playlist.m3u8
+#EXTINF:0 tvg-name="Telecity Valle D'Aosta" tvg-logo="https://i.imgur.com/T9EsAOX.jpeg" tvg-group="Italy" catchup="default" catchup-days="7",Telecity Valle D'Aosta
+https://64b16f23efbee.streamlock.net/telecityvda/telecityvda/playlist.m3u8
+#EXTINF:0 tvg-name="TeleCostaSmeralda" tvg-logo="https://i.imgur.com/QLqkbss.png" tvg-group="Italy" catchup="default" catchup-days="7",TeleCostaSmeralda
+https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/tcs_live/tcs/tcs/playlist.m3u8
+#EXTINF:0 tvg-name="Telegenova" tvg-logo="https://i.imgur.com/D6HC0So.png" tvg-group="Italy" catchup="default" catchup-days="7",Telegenova
+https://64b16f23efbee.streamlock.net/telegenova/telegenova/playlist.m3u8
+#EXTINF:0 tvg-name="Teleiblea" tvg-logo="https://i.imgur.com/n1THygZ.png" tvg-group="Italy" catchup="default" catchup-days="7",Teleiblea
+https://5f22d76e220e1.streamlock.net/teleiblea/teleiblea/playlist.m3u8
+#EXTINF:0 tvg-name="Teleitalia 41" tvg-logo="https://i.imgur.com/lTuPSOn.png" tvg-group="Italy" catchup="default" catchup-days="7",Teleitalia 41
+https://streaming.softwarecreation/teleitalia/teleitalia/playlist.m3u8
+#EXTINF:0 tvg-name="Telejato" tvg-logo="https://i.imgur.com/r3Dqzdj.png" tvg-group="Italy" catchup="default" catchup-days="7",Telejato
+https://telejato.liberotratto.com/hls/stream.m3u8
+#EXTINF:0 tvg-name="Teleleonessa" tvg-logo="https://i.imgur.com/jq3etlV.png" tvg-group="Italy" catchup="default" catchup-days="7",Teleleonessa
+http://wms.shared.streamshow:1935/teleleonessa/teleleonessa/live.m3u8
+#EXTINF:0 tvg-name="TeleMajg" tvg-logo="https://i.imgur.com/9tefonp.jpg" tvg-group="Italy" catchup="default" catchup-days="7",TeleMajg
+https://59d7d6f47d7fc.streamlock.net/telemajg/telemajg/playlist.m3u8
+#EXTINF:0 tvg-name="Telenova" tvg-id="Telenova" tvg-logo="https://i.imgur.com/x41IkJK.png" tvg-group="Italy" catchup="default" catchup-days="7",Telenova
+https://64b16f23efbee.streamlock.net/telenova/telenova/playlist.m3u8
+#EXTINF:0 tvg-name="Telerama" tvg-logo="https://i.imgur.com/enfqUlI.jpg" tvg-group="Italy" catchup="default" catchup-days="7",Telerama
+https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8
+#EXTINF:0 tvg-name="TeleRegione" tvg-logo="https://i.imgur.com/i5WozUP.png" tvg-group="Italy" catchup="default" catchup-days="7",TeleRegione
+https://streaming.softwarecreation/TR118/TR118/playlist.m3u8
+#EXTINF:0 tvg-name="TeleRegione Color" tvg-logo="https://i.imgur.com/vi5Nf3S.png" tvg-group="Italy" catchup="default" catchup-days="7",TeleRegione Color
+https://live.antennasudwebtv:9443/hls/vodtele.m3u8
+#EXTINF:0 tvg-name="TeleRegione Live" tvg-logo="https://i.imgur.com/DBrt8L3.png" tvg-group="Italy" catchup="default" catchup-days="7",TeleRegione Live
+https://5f22d76e220e1.streamlock.net/galluralive/galluralive/playlist.m3u8
+#EXTINF:0 tvg-name="TeleRent 7Gold" tvg-id="7Gold" tvg-logo="https://i.imgur.com/YZadq0M.png" tvg-group="Italy" catchup="default" catchup-days="7",TeleRent 7Gold
+https://router.xdevel.com/video0s86-21/stream/playlist.m3u8
+#EXTINF:0 tvg-name="Telereporter" tvg-logo="https://i.imgur.com/WIo6SPc.png" tvg-group="Italy" catchup="default" catchup-days="7",Telereporter
+https://5f22d76e220e1.streamlock.net/telereporter/telereporter/playlist.m3u8
+#EXTINF:0 tvg-name="Teleromagna" tvg-logo="https://i.imgur.com/4jWadI8.png" tvg-group="Italy" catchup="default" catchup-days="7",Teleromagna
+https://livetr.teleromagna/teleromagna/live/playlist.m3u8
+#EXTINF:0 tvg-name="Teleromagna 24" tvg-logo="https://i.imgur.com/Bpml478.png" tvg-group="Italy" catchup="default" catchup-days="7",Teleromagna 24
+https://livetr.teleromagna/mia/live/playlist.m3u8
+#EXTINF:0 tvg-name="TeleRomaDue" tvg-logo="https://i.imgur.com/78hA7ma.png" tvg-group="Italy" catchup="default" catchup-days="7",TeleRomaDue
+https://57068da1deb21.streamlock.net/teletibur/teletibur/playlist.m3u8
+#EXTINF:0 tvg-name="Telesud Trapani" tvg-logo="https://i.imgur.com/tpZvU1P.png" tvg-group="Italy" catchup="default" catchup-days="7",Telesud Trapani
+https://64b16f23efbee.streamlock.net/telesudtrapani/telesudtrapani/playlist.m3u8
+#EXTINF:0 tvg-name="Telesveva" tvg-logo="https://i.imgur.com/SCDETZC.jpeg" tvg-group="Italy" catchup="default" catchup-days="7",Telesveva
+https://dc3.telesveva.com:4433/cmaf/livetv/index.mpd
+#EXTINF:0 tvg-name="Teleuniverso" tvg-logo="https://i.imgur.com/u8E9wBb.png" tvg-group="Italy" catchup="default" catchup-days="7",Teleuniverso
+https://stream.cp.ets-sistemi:1936/teleuniverso/teleuniverso/playlist.m3u8
+#EXTINF:0 tvg-name="Televallo Trapani" tvg-logo="https://i.imgur.com/P6zuiRH.png" tvg-group="Italy" catchup="default" catchup-days="7",Televallo Trapani
+https://64b16f23efbee.streamlock.net/televallo/televallo/playlist.m3u8
+#EXTINF:0 tvg-name="TG Norba 24" tvg-id="TGNorba24" tvg-logo="https://i.imgur.com/9MhrrJK.png" tvg-group="Italy" catchup="default" catchup-days="7",TG Norba 24
+https://router.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8
+#EXTINF:0 tvg-name="TLT Molise" tvg-logo="https://i.imgur.com/wgwD7gh.png" tvg-group="Italy" catchup="default" catchup-days="7",TLT Molise
+https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8
+#EXTINF:0 tvg-name="Tremedia Tv" tvg-logo="https://i.imgur.com/dqRV1ff.jpeg" tvg-group="Italy" catchup="default" catchup-days="7",Tremedia Tv
+https://stream4.xdevel.com/video0s976062-1263/stream/playlist_dvr.m3u8
+#EXTINF:0 tvg-name="Trentino Tv" tvg-logo="https://i.imgur.com/ROKOCR2.png" tvg-group="Italy" catchup="default" catchup-days="7",Trentino Tv
+https://5e73cf528f404.streamlock.net/TrentinoTV/livestream/playlist.m3u8
+#EXTINF:0 tvg-name="Tuscia Sabina 2000Tv" tvg-logo="https://i.imgur.com/Tq5nEAy.png" tvg-group="Italy" catchup="default" catchup-days="7",Tuscia Sabina 2000Tv
+http://ts2000tv.streaming.nextware:8081/ts2000tv/ts2000tv/chunks.m3u8
+#EXTINF:0 tvg-name="Tv 12" tvg-logo="https://i.imgur.com/oxv08pJ.png" tvg-group="Italy" catchup="default" catchup-days="7",Tv 12
+https://59d7d6f47d7fc.streamlock.net/tv12/tv12/playlist.m3u8
+#EXTINF:0 tvg-name="Tv Campi Flegrei" tvg-logo="https://i.imgur.com/9d2K1nX.png" tvg-group="Italy" catchup="default" catchup-days="7",Tv Campi Flegrei
+https://tv.radiosaiuz.com:3836/live/campiflegreilive.m3u8
+#EXTINF:0 tvg-name="Tv Luna Napoli" tvg-logo="https://i.imgur.com/jxhuoyE.png" tvg-group="Italy" catchup="default" catchup-days="7",Tv Luna Napoli
+https://diretta.arcapuglia:8080/live/teleluna/index.m3u8
+#EXTINF:0 tvg-name="Tv Prato" tvg-logo="https://i.imgur.com/zDeVpZd.png" tvg-group="Italy" catchup="default" catchup-days="7",Tv Prato
+https://live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/mono.m3u8
+#EXTINF:0 tvg-name="Tv Qui Modena" tvg-logo="https://i.imgur.com/4bOYlfg.png" tvg-group="Italy" catchup="default" catchup-days="7",Tv Qui Modena
+https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8
+#EXTINF:0 tvg-name="Tv Uno" tvg-logo="https://i.imgur.com/OtCwYsh.jpg" tvg-group="Italy" catchup="default" catchup-days="7",Tv Uno
+http://ftp.tiscali/francescovernata/TVUNO/monoscopioTvUNOint-1.wmv
+#EXTINF:0 tvg-name="Tv Yes" tvg-logo="https://i.imgur.com/1wsO8U7.png" tvg-group="Italy" catchup="default" catchup-days="7",Tv Yes
+https://stream1.aswifi/radioyes/live/index.m3u8
+#EXTINF:0 tvg-name="Tva Vicenza" tvg-logo="https://i.imgur.com/FtFuPCC.png" tvg-group="Italy" catchup="default" catchup-days="7",Tva Vicenza
+http://fms.tvavicenza:1935/live/diretta_1/playlist.m3u8
+#EXTINF:0 tvg-name="Tvm Palermo" tvg-logo="https://i.imgur.com/uqOdAXB.png" tvg-group="Italy" catchup="default" catchup-days="7",Tvm Palermo
+https://stream2.xdevel.com/video1s86-22/stream/playlist_dvr.m3u8
+#EXTINF:0 tvg-name="Tvr Xenon" tvg-logo="https://i.imgur.com/kLzW1Pf.jpg" tvg-group="Italy" catchup="default" catchup-days="7",Tvr Xenon
+https://cdn107-ita.azotosolutions.com:8443/cdnedge4/smil:live4.smil/playlist.m3u8
+#EXTINF:0 tvg-name="Tvrs Tv" tvg-logo="https://i.imgur.com/6p7hTmY.jpg" tvg-group="Italy" catchup="default" catchup-days="7",Tvrs Tv
+https://cdn8.streamshow/cloud-tvrs/tvrs/playlist.m3u8
+#EXTINF:0 tvg-name="Umbria+ TRT" tvg-logo="https://i.imgur.com/CU6BBgs.png" tvg-group="Italy" catchup="default" catchup-days="7",Umbria+ TRT
+https://diretta.teleterni:8080//show/show.m3u8
+#EXTINF:0 tvg-name="Umbria Tv" tvg-logo="https://i.imgur.com/XKCVEmK.png" tvg-group="Italy" catchup="default" catchup-days="7",Umbria Tv
+https://umbriatv.stream.rubidia:8083/live/umbriatv/playlist.m3u8
+#EXTINF:0 tvg-name="Uno Tv" tvg-logo="https://i.imgur.com/4PNbqqL.png" tvg-group="Italy" catchup="default" catchup-days="7",Uno Tv
+https://stream1.aswifi/unotv/live/index.m3u8
+#EXTINF:0 tvg-name="Uno4 Tv" tvg-logo="https://i.imgur.com/wfPPpBA.png" tvg-group="Italy" catchup="default" catchup-days="7",Uno4 Tv
+https://cdn.uno4/index.m3u8
+#EXTINF:0 tvg-name="Vera Tv" tvg-logo="https://i.imgur.com/djMvkvN.png" tvg-group="Italy" catchup="default" catchup-days="7",Vera Tv
+http://wms.shared.streamshow/veratv/veratv/playlist.m3u8
+#EXTINF:0 tvg-name="VB33" tvg-logo="https://i.imgur.com/ygDuIxU.png" tvg-group="Italy" catchup="default" catchup-days="7",VB33
+https://live.ipstream/vb33/vb33.stream/playlist.m3u8
+#EXTINF:0 tvg-name="Video Calabria" tvg-id="VideoCalabria" tvg-logo="https://i.imgur.com/Bc2AvIm.png" tvg-group="Italy" catchup="default" catchup-days="7",Video Calabria
+https://a8a02dd9a49a4fc9810743615c65ab73.msvdn.net/live/S76734991/i6NeNqLYaspb/playlist.m3u8
+#EXTINF:0 tvg-name="Video Mediterraneo" tvg-logo="https://i.imgur.com/hJHC3uQ.png" tvg-group="Italy" catchup="default" catchup-days="7",Video Mediterraneo
+https://bfbe5f347ac4424faf719dda285bc39e.msvdn.net/live/S54897858/4gWO7tTzpK3N/playlist.m3u8
+#EXTINF:0 tvg-name="Video Nola" tvg-logo="https://i.imgur.com/M5z5UoD.jpg" tvg-group="Italy" catchup="default" catchup-days="7",Video Nola
+https://videonola.aswifi/videonolaabr/live.m3u8
+#EXTINF:0 tvg-name="Video Regione Sicilia" tvg-logo="https://i.imgur.com/0szwnR3.png" tvg-group="Italy" catchup="default" catchup-days="7",Video Regione Sicilia
+https://57214cb172d84f8cb311b91513952b03.msvdn.net/live/S40896499/ZuaLjACsWIL4/playlist.m3u8
+#EXTINF:0 tvg-name="Video Star Tv Sicilia" tvg-logo="https://i.imgur.com/1ddJVZ7.jpg" tvg-group="Italy" catchup="default" catchup-days="7",Video Star Tv Sicilia
+https://stream9.xdevel.com/video0s976556-1321/stream/playlist.m3u8
+#EXTINF:0 tvg-name="Video Touring Tv" tvg-logo="https://i.imgur.com/E2Feao5.jpg" tvg-group="Italy" catchup="default" catchup-days="7",Video Touring Tv
+https://streamingvideo.auranex.cloud/memfs/70baacad-47c6-41a6-aee0-86530c31e080.m3u8
+#EXTINF:0 tvg-name="Videolina" tvg-logo="https://i.imgur.com/bnDZJwd.gif" tvg-group="Italy" catchup="default" catchup-days="7",Videolina
+http://livestreaming.videolina/live/Videolina/playlist.m3u8
+#EXTINF:0 tvg-name="Videonovara" tvg-logo="https://i.imgur.com/NnO7E5I.png" tvg-group="Italy" catchup="default" catchup-days="7",Videonovara
+https://ed04.top-ix.org/avtvlive/videonovara/streaming/playlist.m3u8
+#EXTINF:0 tvg-name="Videotelecarnia" tvg-logo="https://i.imgur.com/r4K9JHW.png" tvg-group="Italy" catchup="default" catchup-days="7",Videotelecarnia
+https://rst2.saiuzwebnetwork:8081/vtccarnia/index.m3u8
+#EXTINF:0 tvg-name="Vintage Radio Tv" tvg-logo="https://i.imgur.com/n3LtBNT.jpg" tvg-group="Italy" catchup="default" catchup-days="7",Vintage Radio Tv
+https://5f22d76e220e1.streamlock.net/vintageradiotv/vintageradiotv/playlist.m3u8
+#EXTINF:0 tvg-name="Vuemme Tv" tvg-logo="https://i.imgur.com/x5A0xU6.png" tvg-group="Italy" catchup="default" catchup-days="7",Vuemme Tv
+https://5db313b643fd8.streamlock.net/Vuemme/Vuemme/playlist.m3u8
+#EXTINF:0 tvg-name="Webcom Tv" tvg-logo="https://i.imgur.com/KLwj2vj.png" tvg-group="Italy" catchup="default" catchup-days="7",Webcom Tv
+https://www.webcomiptv/mistserver/passionelotto/index.m3u8
+#EXTINF:0 tvg-name="WLTV" tvg-logo="https://i.imgur.com/aL8jKtU.png" tvg-group="Italy" catchup="default" catchup-days="7",WLTV
+https://5db313b643fd8.streamlock.net/WLTV/WLTV/playlist.m3u8
+#EXTINF:0 tvg-name="Yvii Tv" tvg-logo="https://i.imgur.com/yP5AvDo.png" tvg-group="Italy" catchup="default" catchup-days="7",Yvii Tv
+https://stream.wired-shop.com/hls/yviitv.m3u8
+#EXTINF:0 tvg-name="Zerouno Tv Music" tvg-logo="https://i.imgur.com/r74lqW8.png" tvg-group="Italy" catchup="default" catchup-days="7",Zerouno Tv Music
+https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
+#EXTINF:0 tvg-name="Zerouno Tv News" tvg-logo="https://i.imgur.com/vxRzyjE.png" tvg-group="Italy" catchup="default" catchup-days="7",Zerouno Tv News
+https://5f22d76e220e1.streamlock.net/01news/01news/playlist.m3u8
+#EXTINF:0 tvg-name="Radio Colonna Tv Ⓨ" tvg-logo="https://i.imgur.com/EcQvDfq.png" tvg-group="Italy" catchup="default" catchup-days="7",Radio Colonna Tv Ⓨ
+https://www.youtube.com/radiocolonna/live
+#EXTINF:0 tvg-name="Euronews Italian Ⓨ" tvg-id="EuronewsItalian.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png" tvg-group="Italy" catchup="default" catchup-days="7",Euronews Italian Ⓨ
+https://www.youtube.com/user/euronewsit/live
+#EXTINF:0 tvg-name="TRM h24 Ⓨ" tvg-id="TRMh24" tvg-logo="https://i.imgur.com/d47CdYU.png" tvg-group="Italy" catchup="default" catchup-days="7",TRM h24 Ⓨ
+https://www.youtube.com/user/trmh24/live
+#EXTINF:0 tvg-name="Teleroma 56 Ⓣ" tvg-logo="https://i.imgur.com/wGfpUj8.png" tvg-group="Italy" catchup="default" catchup-days="7",Teleroma 56 Ⓣ
+https://www.twitch.tv/teleroma_56
+#EXTINF:0 tvg-name="TeleRadioStereo Ⓣ" tvg-logo="https://i.imgur.com/eRNgqnA.png" tvg-group="Italy" catchup="default" catchup-days="7",TeleRadioStereo Ⓣ
+https://www.twitch.tv/teleradiostereo
