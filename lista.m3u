@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:0 tvg-name="Rai 1" tvg-id="Rai 1" tvg-logo="https://i.imgur.com/CAx7yRm.png" tvg-group="Italy" catchup="default" catchup-days="7",Rai 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://mediapolis.rai/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
 #EXTINF:0 tvg-name="Rai 2" tvg-id="Rai 2" tvg-logo="https://i.imgur.com/zA0PTcs.png" tvg-group="Italy" catchup="default" catchup-days="7",Rai 2
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://mediapolis.rai/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
 #EXTINF:0 tvg-name="Rai 3" tvg-id="Rai 3" tvg-logo="https://i.imgur.com/9kuQCIi.png" tvg-group="Italy" catchup="default" catchup-days="7",Rai 3
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://mediapolis.rai/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
 #EXTINF:0 tvg-name="Rete 4" tvg-id="Rete 4" tvg-logo="https://i.imgur.com/GWx2Fkl.png" tvg-group="Italy" catchup="default" catchup-days="7",Rete 4
 https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
 #EXTINF:0 tvg-name="Canale 5" tvg-id="Canale 5" tvg-logo="https://i.imgur.com/p6YdiR1.png" tvg-group="Italy" catchup="default" catchup-days="7",Canale 5
@@ -23,15 +23,19 @@ https://amg16146-wbdi-amg16146c1-samsung-it-1831.playouts.now.amagi.tv/playlist/
 #EXTINF:0 tvg-name="20 Mediaset" tvg-id="20" tvg-logo="https://i.imgur.com/It13jwX.png" tvg-group="Italy" catchup="default" catchup-days="7",20 Mediaset
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
 #EXTINF:0 tvg-name="Rai 4" tvg-id="Rai4" tvg-logo="https://i.imgur.com/XFkZRfv.png" tvg-group="Italy" catchup="default" catchup-days="7",Rai 4
-https://mediapolis.rai/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
 #EXTINF:0 tvg-name="Iris" tvg-id="Iris" tvg-logo="https://i.imgur.com/Ixz1BY3.png" tvg-group="Italy" catchup="default" catchup-days="7",Iris
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
 #EXTINF:0 tvg-name="Rai 5" tvg-id="Rai5" tvg-logo="https://i.imgur.com/Leu2zTO.png" tvg-group="Italy" catchup="default" catchup-days="7",Rai 5
-https://mediapolis.rai/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv
 #EXTINF:0 tvg-name="Rai Movie" tvg-id="RaiMovie" tvg-logo="https://i.imgur.com/RKpO8CE.png" tvg-group="Italy" catchup="default" catchup-days="7",Rai Movie
-https://mediapolis.rai/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
 #EXTINF:0 tvg-name="Rai Premium" tvg-id="RaiPremium" tvg-logo="https://i.imgur.com/RKI4nFy.png" tvg-group="Italy" catchup="default" catchup-days="7",Rai Premium
-https://mediapolis.rai/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
 #EXTINF:0 tvg-name="Cielo TV" tvg-id="CieloTV" tvg-logo="https://i.imgur.com/cPluF03.png" tvg-group="Italy" catchup="default" catchup-days="7",Cielo TV
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
 #EXTINF:0 tvg-name="27 Twentyseven" tvg-id="27Twentyseven" tvg-logo="https://i.imgur.com/y2PdPCK.png" tvg-group="Italy" catchup="default" catchup-days="7",27 Twentyseven
