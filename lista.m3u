@@ -79,7 +79,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
 #EXTINF:0 tvg-name="Super! Ⓢ" tvg-id="Super" tvg-logo="https://i.imgur.com/zDByOwo.png" tvg-group="Italy" catchup="default" catchup-days="7",Super! Ⓢ
 https://vimnitaly.akamaized.net/hls/live/2094034/super/master.m3u8
 #EXTINF:0 tvg-name="Rai News 24" tvg-id="RaiNews24" tvg-logo="https://i.imgur.com/gdzGwB6.png" tvg-group="Italy" catchup="default" catchup-days="7",Rai News 24
-https://mediapolis.rai/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=raiplayappletv
+https://streamcdnb4-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
 #EXTINF:0 tvg-name="Italia 2" tvg-id="Italia2" tvg-logo="https://i.imgur.com/nq48sjO.png" tvg-group="Italy" catchup="default" catchup-days="7",Italia 2
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
 #EXTINF:0 tvg-name="Sky TG24" tvg-id="SkyTG24" tvg-logo="https://i.imgur.com/q4d3Dah.png" tvg-group="Italy" catchup="default" catchup-days="7",Sky TG24
