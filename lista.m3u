@@ -138,7 +138,7 @@ https://goldsattv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
 #EXTINF:0 tvg-name="Sportitalia SOLOCALCIO" tvg-id="SportitaliaSolocalcio" tvg-logo="https://i.imgur.com/hu56Ya5.png" tvg-group="Italy" catchup="default" catchup-days="7",Sportitalia SOLOCALCIO
 https://sportitaliaamd.akamaized.net/live/Sportitalia/hls/6197F24C2DDD359567D902082C9347C25BC98852/index.m3u8
 #EXTINF:0 tvg-name="BIKE" tvg-id="Bike HD" tvg-logo="https://i.imgur.com/4IzVSQI.png" tvg-group="Italy" catchup="default" catchup-days="7",BIKE
-https://66286fdeb96da.streamlock.net/BikeChannel/Bikechannel/playlist.m3u8
+https://cdn02.argocdn.net/argocdn/bikechannel/video.m3u8
 #EXTINF:0 tvg-name="Radio Montecarlo TV" tvg-id="RadioMonteCarloTV" tvg-logo="https://i.imgur.com/3TMMXmS.png" tvg-group="Italy" catchup="default" catchup-days="7",Radio Montecarlo TV
 https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
 #EXTINF:0 tvg-name="Virgin Radio TV" tvg-id="VirginRadioTV" tvg-logo="https://i.imgur.com/7Im3HI1.png" tvg-group="Italy" catchup="default" catchup-days="7",Virgin Radio TV
