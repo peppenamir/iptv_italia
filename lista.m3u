@@ -38,7 +38,7 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&force
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
 #EXTINF:0 tvg-name="Cielo TV" tvg-id="CieloTV" tvg-logo="https://i.imgur.com/cPluF03.png" tvg-group="Italy" catchup="default" catchup-days="7",Cielo TV
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
-#EXTINF:0 tvg-name="27 Twentyseven" tvg-id="27Twentyseven" tvg-logo="https://i.imgur.com/y2PdPCK.png" tvg-group="Italy" catchup="default" catchup-days="7",27 Twentyseven
+#EXTINF:0 tvg-name="27 Twentyseven" tvg-id="Twenty Seven" tvg-logo="https://i.imgur.com/y2PdPCK.png" tvg-group="Italy" catchup="default" catchup-days="7",27 Twentyseven
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
 #EXTINF:0 tvg-name="TV 2000" tvg-id="TV2000.va" tvg-logo="https://i.imgur.com/x7RaK3a.png" tvg-group="Italy" catchup="default" catchup-days="7",TV 2000
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
@@ -89,10 +89,11 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 #EXTINF:0 tvg-name="DMAX" tvg-id="DMAXItaly" tvg-logo="https://i.imgur.com/dmEmRX7.png" tvg-group="Italy" catchup="default" catchup-days="7",DMAX
 https://amg16146-wbdi-amg16146c8-samsung-it-1841.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-dmax-samsungit/playlist.m3u8
 #EXTINF:0 tvg-name="Rai Storia" tvg-id="RaiStoria" tvg-logo="https://i.imgur.com/K8y5q8x.png" tvg-group="Italy" catchup="default" catchup-days="7",Rai Storia
-https://mediapolis.rai/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=raiplayappletv
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=raiplayappletv
 #EXTINF:0 tvg-name="Mediaset Extra" tvg-id="MediasetExtra" tvg-logo="https://i.imgur.com/mM8lopo.png" tvg-group="Italy" catchup="default" catchup-days="7",Mediaset Extra
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
-#EXTINF:0 tvg-name="HGTV – Home & Garden Tv" tvg-id="HGTVItaly" tvg-logo="https://i.imgur.com/emLNC0U.png" tvg-group="Italy" catchup="default" catchup-days="7",HGTV – Home & Garden Tv
+#EXTINF:0 tvg-name="HGTV – Home & Garden Tv" tvg-id="HGTV HD" tvg-logo="https://i.imgur.com/emLNC0U.png" tvg-group="Italy" catchup="default" catchup-days="7",HGTV – Home & Garden Tv
 https://amg16146-wbdi-amg16146c9-samsung-it-1842.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-hgtv-samsungit/playlist.m3u8
 #EXTINF:0 tvg-name="Rai Scuola" tvg-id="RaiScuola" tvg-logo="https://i.imgur.com/tmtJW6s.png" tvg-group="Italy" catchup="default" catchup-days="7",Rai Scuola
 https://mediapolis.rai/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
@@ -136,7 +137,7 @@ https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8
 https://goldsattv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
 #EXTINF:0 tvg-name="Sportitalia SOLOCALCIO" tvg-id="SportitaliaSolocalcio" tvg-logo="https://i.imgur.com/hu56Ya5.png" tvg-group="Italy" catchup="default" catchup-days="7",Sportitalia SOLOCALCIO
 https://sportitaliaamd.akamaized.net/live/Sportitalia/hls/6197F24C2DDD359567D902082C9347C25BC98852/index.m3u8
-#EXTINF:0 tvg-name="BIKE" tvg-id="Bike" tvg-logo="https://i.imgur.com/4IzVSQI.png" tvg-group="Italy" catchup="default" catchup-days="7",BIKE
+#EXTINF:0 tvg-name="BIKE" tvg-id="Bike HD" tvg-logo="https://i.imgur.com/4IzVSQI.png" tvg-group="Italy" catchup="default" catchup-days="7",BIKE
 https://66286fdeb96da.streamlock.net/BikeChannel/Bikechannel/playlist.m3u8
 #EXTINF:0 tvg-name="Radio Montecarlo TV" tvg-id="RadioMonteCarloTV" tvg-logo="https://i.imgur.com/3TMMXmS.png" tvg-group="Italy" catchup="default" catchup-days="7",Radio Montecarlo TV
 https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
