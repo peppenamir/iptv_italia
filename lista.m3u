@@ -18,7 +18,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
 #EXTINF:0 tvg-name="TV8" tvg-id="TV8" tvg-logo="https://i.imgur.com/xvoHVOU.png" tvg-group="Italy" catchup="default" catchup-days="7",TV8
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
-#EXTINF:0 tvg-name="Nove" tvg-id="Nove" tvg-logo="https://i.imgur.com/Hp723RU.png" tvg-group="Italy" catchup="default" catchup-days="7",Nove
+#EXTINF:0 tvg-name="Nove" tvg-id="NOVE" tvg-logo="https://i.imgur.com/Hp723RU.png" tvg-group="Italy" catchup="default" catchup-days="7",Nove
 https://amg16146-wbdi-amg16146c1-samsung-it-1831.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-nove-samsungit/playlist.m3u8
 #EXTINF:0 tvg-name="20 Mediaset" tvg-id="20" tvg-logo="https://i.imgur.com/It13jwX.png" tvg-group="Italy" catchup="default" catchup-days="7",20 Mediaset
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
@@ -107,7 +107,7 @@ https://sportitaliaamd.akamaized.net/live/Sportitalia/hls/F59D8EB0332E783633CDDE
 https://traveltv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
 #EXTINF:0 tvg-name="Donna TV Ⓢ" tvg-id="DonnaTV" tvg-logo="https://i.imgur.com/Aa1Abme.png" tvg-group="Italy" catchup="default" catchup-days="7",Donna TV Ⓢ
 https://donnatv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
-#EXTINF:0 tvg-name="SuperTennis" tvg-id="SuperTennis" tvg-logo="https://i.imgur.com/GzsPlbX.png" tvg-group="Italy" catchup="default" catchup-days="7",SuperTennis
+#EXTINF:0 tvg-name="SuperTennis" tvg-id="Super Tennis" tvg-logo="https://i.imgur.com/GzsPlbX.png" tvg-group="Italy" catchup="default" catchup-days="7",SuperTennis
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
 #EXTINF:0 tvg-name="Alma TV" tvg-id="AlmaTV" tvg-logo="https://i.imgur.com/Y8JiDwN.png" tvg-group="Italy" catchup="default" catchup-days="7",Alma TV
 https://almatv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
@@ -125,7 +125,7 @@ https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
 https://mediapolis.rai/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=raiplayappletv
 #EXTINF:0 tvg-name="RTL 102.5 News" tvg-id="RTL1025News" tvg-logo="https://i.imgur.com/vAtzwXK.png" tvg-group="Italy" catchup="default" catchup-days="7",RTL 102.5 News
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
-#EXTINF:0 tvg-name="RadioFreccia" tvg-id="RadioFrecciaTV" tvg-logo="https://i.imgur.com/J5N9F7Z.png" tvg-group="Italy" catchup="default" catchup-days="7",RadioFreccia
+#EXTINF:0 tvg-name="RadioFreccia" tvg-id="RADIO FRECCIA" tvg-logo="https://i.imgur.com/J5N9F7Z.png" tvg-group="Italy" catchup="default" catchup-days="7",RadioFreccia
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
 #EXTINF:0 tvg-name="RDS Social TV" tvg-id="RDSSocialTV" tvg-logo="https://i.imgur.com/TY6FhqI.png" tvg-group="Italy" catchup="default" catchup-days="7",RDS Social TV
 https://stream.rdstv.radio/index.m3u8
@@ -139,9 +139,9 @@ https://goldsattv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
 https://sportitaliaamd.akamaized.net/live/Sportitalia/hls/6197F24C2DDD359567D902082C9347C25BC98852/index.m3u8
 #EXTINF:0 tvg-name="BIKE" tvg-id="Bike HD" tvg-logo="https://i.imgur.com/4IzVSQI.png" tvg-group="Italy" catchup="default" catchup-days="7",BIKE
 https://cdn02.argocdn.net/argocdn/bikechannel/video.m3u8
-#EXTINF:0 tvg-name="Radio Montecarlo TV" tvg-id="RadioMonteCarloTV" tvg-logo="https://i.imgur.com/3TMMXmS.png" tvg-group="Italy" catchup="default" catchup-days="7",Radio Montecarlo TV
+#EXTINF:0 tvg-name="Radio Montecarlo TV" tvg-id="Radio Monte Carlo" tvg-logo="https://i.imgur.com/3TMMXmS.png" tvg-group="Italy" catchup="default" catchup-days="7",Radio Montecarlo TV
 https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
-#EXTINF:0 tvg-name="Virgin Radio TV" tvg-id="VirginRadioTV" tvg-logo="https://i.imgur.com/7Im3HI1.png" tvg-group="Italy" catchup="default" catchup-days="7",Virgin Radio TV
+#EXTINF:0 tvg-name="Virgin Radio TV" tvg-id="Virgin Radio" tvg-logo="https://i.imgur.com/7Im3HI1.png" tvg-group="Italy" catchup="default" catchup-days="7",Virgin Radio TV
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
 #EXTINF:0 tvg-name="Senato TV" tvg-id="SenatoTV" tvg-logo="https://i.imgur.com/FoQoNZW.png" tvg-group="Italy" catchup="default" catchup-days="7",Senato TV
 https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
@@ -765,7 +765,7 @@ https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
 https://5f22d76e220e1.streamlock.net/01news/01news/playlist.m3u8
 #EXTINF:0 tvg-name="Radio Colonna Tv Ⓨ" tvg-logo="https://i.imgur.com/EcQvDfq.png" tvg-group="Italy" catchup="default" catchup-days="7",Radio Colonna Tv Ⓨ
 https://www.youtube.com/radiocolonna/live
-#EXTINF:0 tvg-name="Euronews Italian Ⓨ" tvg-id="EuronewsItalian.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png" tvg-group="Italy" catchup="default" catchup-days="7",Euronews Italian Ⓨ
+#EXTINF:0 tvg-name="Euronews" tvg-id="Euronews Italiano" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png" tvg-group="Italy" catchup="default" catchup-days="7",Euronews Italiano
 https://www.youtube.com/user/euronewsit/live
 #EXTINF:0 tvg-name="TRM h24 Ⓨ" tvg-id="TRMh24" tvg-logo="https://i.imgur.com/d47CdYU.png" tvg-group="Italy" catchup="default" catchup-days="7",TRM h24 Ⓨ
 https://www.youtube.com/user/trmh24/live
