@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-name="Rai 1" tvg-id="Rai 1" tvg-logo="https://i.imgur.com/CAx7yRm.png" tvg-group="Italy" catchup="default" catchup-days="7",Rai 1
+#EXTINF:0 tvg-name="Rai 1" tvg-id="Rai 1" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai1.png" tvg-group="Italy" catchup="default" catchup-days="7",Rai 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
 #EXTINF:0 tvg-name="Rai 2" tvg-id="Rai 2" tvg-logo="https://i.imgur.com/zA0PTcs.png" tvg-group="Italy" catchup="default" catchup-days="7",Rai 2
