@@ -22,7 +22,7 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?h
 https://amg16146-wbdi-amg16146c1-samsung-it-1831.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-nove-samsungit/playlist.m3u8
 #EXTINF:0 tvg-name="20 Mediaset" tvg-id="20" tvg-logo="https://i.imgur.com/It13jwX.png" tvg-group="Italy" catchup="default" catchup-days="7",20 Mediaset
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
-#EXTINF:0 tvg-name="Rai 4" tvg-id="Rai4" tvg-logo="https://i.imgur.com/XFkZRfv.png" tvg-group="Italy" catchup="default" catchup-days="7",Rai 4
+#EXTINF:0 tvg-name="Rai 4" tvg-id="Rai4" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai4.png" tvg-group="Italy" catchup="default" catchup-days="7",Rai 4
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
 #EXTINF:0 tvg-name="Iris" tvg-id="Iris" tvg-logo="https://i.imgur.com/Ixz1BY3.png" tvg-group="Italy" catchup="default" catchup-days="7",Iris
