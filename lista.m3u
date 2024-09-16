@@ -2,10 +2,10 @@
 #EXTINF:0 tvg-name="Rai 1" tvg-id="Rai 1" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai1.png" tvg-group="Italy" catchup="default" catchup-days="7",Rai 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
-#EXTINF:0 tvg-name="Rai 2" tvg-id="Rai 2" tvg-logo="https://i.imgur.com/zA0PTcs.png" tvg-group="Italy" catchup="default" catchup-days="7",Rai 2
+#EXTINF:0 tvg-name="Rai 2" tvg-id="Rai 2" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai2.png" tvg-group="Italy" catchup="default" catchup-days="7",Rai 2
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
-#EXTINF:0 tvg-name="Rai 3" tvg-id="Rai 3" tvg-logo="https://i.imgur.com/9kuQCIi.png" tvg-group="Italy" catchup="default" catchup-days="7",Rai 3
+#EXTINF:0 tvg-name="Rai 3" tvg-id="Rai 3" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai3.png" tvg-group="Italy" catchup="default" catchup-days="7",Rai 3
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
 #EXTINF:0 tvg-name="Rete 4" tvg-id="Rete 4" tvg-logo="https://i.imgur.com/GWx2Fkl.png" tvg-group="Italy" catchup="default" catchup-days="7",Rete 4
