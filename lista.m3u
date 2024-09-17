@@ -88,7 +88,7 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnt
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 #EXTINF:0 tvg-name="DMAX" tvg-id="DMAXItaly" tvg-logo="https://i.imgur.com/dmEmRX7.png" tvg-group="Italy" catchup="default" catchup-days="7",DMAX
 https://amg16146-wbdi-amg16146c8-samsung-it-1841.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-dmax-samsungit/playlist.m3u8
-#EXTINF:0 tvg-name="Rai Storia" tvg-id="RaiStoria" tvg-logo="https://i.imgur.com/K8y5q8x.png" tvg-group="Italy" catchup="default" catchup-days="7",Rai Storia
+#EXTINF:0 tvg-name="Rai Storia" tvg-id="RaiStoria" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raistoria.png" tvg-group="Italy" catchup="default" catchup-days="7",Rai Storia
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=raiplayappletv
 #EXTINF:0 tvg-name="Mediaset Extra" tvg-id="MediasetExtra" tvg-logo="https://i.imgur.com/mM8lopo.png" tvg-group="Italy" catchup="default" catchup-days="7",Mediaset Extra
