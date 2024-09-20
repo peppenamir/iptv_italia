@@ -74,7 +74,7 @@ https://mediapolis.rai/relinker/relinkerServlet.htm?cont=746953&output=7&forceUs
 https://mediapolis.rai/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
 #EXTINF:0 tvg-name="Frisbee" tvg-id="Frisbee" tvg-logo="https://i.imgur.com/9y1zIAe.png" tvg-group="Italy" catchup="default" catchup-days="7",Frisbee
 https://amg16146-wbdi-amg16146c7-samsung-it-1840.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-frisbee-samsungit/playlist.m3u8
-#EXTINF:0 tvg-name="Cartoonito" tvg-id="CartoonitoItaly" tvg-logo="https://i.imgur.com/zqc0TrY.png" tvg-group="Italy" catchup="default" catchup-days="7",Cartoonito
+#EXTINF:0 tvg-name="Cartoonito" tvg-id="Cartoonito" tvg-logo="https://i.imgur.com/zqc0TrY.png" tvg-group="Italy" catchup="default" catchup-days="7",Cartoonito
 https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
 #EXTINF:0 tvg-name="Super! Ⓢ" tvg-id="Super" tvg-logo="https://i.imgur.com/zDByOwo.png" tvg-group="Italy" catchup="default" catchup-days="7",Super! 
 https://vimnitaly.akamaized.net/hls/live/2094034/super/master.m3u8
